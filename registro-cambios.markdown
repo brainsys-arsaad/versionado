@@ -50,7 +50,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Reporte impreso de cartas de devolución detallado.
 - Reporte Excel de cartas de devolución.
 - Validación de anulación de comprobantes que salieron en al menos un viaje.
-- Creacion de cirtuito de retiros de recupero.
+- Creación de cirtuito de retiros de recupero.
 - **`[Calico]`** Registro de remito y cantidad procesada en tabla de líneas recibidas en interfaz de Bianchi.
 - **`[Calico]`** Actualización de estado de línea recibida según proceso en SAAD en interfaz de Bianchi.
 - **`[Calico]`** Proceso de creación de paradas en OptimoCamino con informe de series asociadas a vale de recepción para Telecentro.
