@@ -42,6 +42,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Agregado
 - Se agrega funcionalidad para poder indicar por cliente un valor tope para las medidas del comprobante y dias de emision.
 
+### Modificado
+- **`[Calico]`** Se modifica integración de informes a OSCM para que permita indicar el pais en el que se esta informando el file.
+
 ## 2021.04.21
 ---
 ### Agregado
