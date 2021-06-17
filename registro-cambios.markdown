@@ -39,6 +39,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ## Pendiente de liberación
 ---
+### Agregado
+- Se agrega funcionalidad para poder indicar por cliente un valor tope para las medidas del comprobante y dias de emision.
 
 ## 2021.04.21
 ---
