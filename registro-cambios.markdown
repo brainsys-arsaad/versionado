@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2021.06.18"
+      link: "registro-cambios#20210618"
     - nombre: "2021.04.21"
       link: "registro-cambios#20210421"
     - nombre: "2021.03.04"
@@ -38,6 +40,9 @@ En este archivo se documentaran todo los cambios notables liberados en cada vers
 El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/), y para el nombre de versión se utiliza la fecha de lazamiento de la misma en el formato **AAAA.MM.DD**.
 
 ## Pendiente de liberación
+---
+
+## 2021.06.18
 ---
 ### Agregado
 - Se agrega funcionalidad para poder indicar por cliente un valor tope para las medidas del comprobante y dias de emision.
