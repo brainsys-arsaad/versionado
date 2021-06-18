@@ -50,6 +50,12 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Modificado
 - **`[Calico]`** Se modifica integración de informes a OSCM para que permita indicar el pais en el que se esta informando el file.
 - Se mejora performance de inicio de viajes.
+- Se modifica formulario de turnos de carga para que muestre las paletas del turno de carga.
+- Se modifica carga de turno para que el Remito aparezca como Viaje.
+- Se modifica el formulario de seguimiento de carga de turnos para que permita mostra el estado de los pedidos asociados a los turnos.
+- Se modifica el formulario de tablero de carga de turnos para que permita mostrar el estado de los pedidos asociados a los turnos.
+- Se modifica el formulario de tablero de descarga de turnos para que permita mostrar el estado de las recepciones asociadas a los turnos.
+- Se modifica el formulario de seguimiento de descarga de turnos para que permita mostrar el estado de las recepciones asociadas a los turnos.
 
 ## 2021.04.21
 ---
