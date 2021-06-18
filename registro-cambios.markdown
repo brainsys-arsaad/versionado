@@ -44,6 +44,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Modificado
 - **`[Calico]`** Se modifica integración de informes a OSCM para que permita indicar el pais en el que se esta informando el file.
+- Se mejora performance de inicio de viajes.
 
 ## 2021.04.21
 ---
