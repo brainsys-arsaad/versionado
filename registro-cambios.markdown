@@ -56,6 +56,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Se modifica el formulario de tablero de carga de turnos para que permita mostrar el estado de los pedidos asociados a los turnos.
 - Se modifica el formulario de tablero de descarga de turnos para que permita mostrar el estado de las recepciones asociadas a los turnos.
 - Se modifica el formulario de seguimiento de descarga de turnos para que permita mostrar el estado de las recepciones asociadas a los turnos.
+- Se modifica integracion de creación de muelles desde optimo camino hacia TMS para que permita filtrar por sucursal y cliente.
 
 ## 2021.04.21
 ---
