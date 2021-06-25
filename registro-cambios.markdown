@@ -41,8 +41,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ## Pendiente de liberación
 ---
-- Se agregan validaciones de maestros en acciones de pedido de SAAD.NET
-- Se agregan validaciones de maestros en acciones de recepcion de SAAD.NET
+- Se agregan validaciones de maestros en creacion y edicion de pedidos de SAAD.NET
+- Se agregan validaciones de maestros en creacion y edicion de recepciones de SAAD.NET
 
 ## 2021.06.18
 ---
