@@ -47,6 +47,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Se agrega pantalla de interfaz de seguimiento de recepciones
 - Se agrega pantalla de interfaz de seguimiento de pedidos
 - **`[Saphirus]`** Se agrega interfaz de informe de recepciones hacia SAAD TSO.
+- **`[Calico]`** Se agrega interfaz de informe de prepedidos de Fecovita.
 
 ### Modificado
 - Se corrige importador de excel para que si el comprobante tiene completo los datos de nombre y numero de calle tanto de origen como de destino que no llame al normalizador de domicilios.
