@@ -44,10 +44,12 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Agregado
 - Se agregan validaciones de maestros en creacion y edicion de pedidos de SAAD.NET
 - Se agregan validaciones de maestros en creacion y edicion de recepciones de SAAD.NET
+- **`[Saphirus]`** Se agrega interfaz de informe de recepciones hacia SAAD TSO.
 
 ### Modificado
 - Se corrige importador de excel para que si el comprobante tiene completo los datos de nombre y numero de calle tanto de origen como de destino que no llame al normalizador de domicilios.
 - Se realiza refactor de proceso de valorización.
+- **`[Intralog]`** Se realizan modificaciones en integraciones EDI con S2GO.
 
 ## 2021.06.18
 ---
