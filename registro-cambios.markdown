@@ -55,6 +55,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Modificado
 - Se corrige importador de excel para que si el comprobante tiene completo los datos de nombre y numero de calle tanto de origen como de destino que no llame al normalizador de domicilios.
 - Se realiza refactor de proceso de valorización.
+- Se modifica integración de conforme de comprobantes de Optimo Camino para que no filtre solo por los caminos que se envían al móvil sino que tome en cuenta todos los caminos.
+- Se agrega filtro por fecha desde y hasta para la obtención de caminos en archivo de configuración.
+- Se modifica integración de creación de paradas en Optimo Camino para que envie código y razón social del cliente en el servicio web.
 - **`[Intralog]`** Se realizan modificaciones en integraciones EDI con S2GO.
 
 ## 2021.06.18
