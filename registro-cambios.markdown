@@ -6,6 +6,10 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2021.07.29"
+      link: "registro-cambios#20210729"
+    - nombre: "2021.07.07"
+      link: "registro-cambios#20210707"
     - nombre: "2021.06.18"
       link: "registro-cambios#20210618"
     - nombre: "2021.04.21"
@@ -41,6 +45,11 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ## Pendiente de liberación
 ---
+
+## 2021.07.29
+---
+### Modificado
+- Se mejora performance de busqueda de muelles en viajes.
 
 ## 2021.07.07
 ---
