@@ -45,6 +45,15 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ## Pendiente de liberación
 ---
+### Agregado
+- Se agrega pantalla de monitor de proceso de importación de productos.
+- Se agrega pantalla de monitor de proceso de importación de códigos de barra.
+- Se agrega pantalla de monitor de proceso de importación de recepciones.
+- Se agrega pantalla de monitor de proceso de importación de pedidos.
+- Se agrega pantalla de monitor de proceso de informe de recepciones.
+- Se agrega pantalla de monitor de proceso de informe de pedidos.
+- Se agrega pantalla de monitor de proceso de informe de ajustes.
+- Se agrega pantalla de monitor de proceso de informe de stock.
 
 ## 2021.07.29
 ---
