@@ -55,6 +55,10 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Se agrega pantalla de monitor de proceso de informe de ajustes.
 - Se agrega pantalla de monitor de proceso de informe de stock.
 
+### Modificado
+-Se modifica proceso de importador excel para que la seleccion de procesos sea al comienzo con la carga del excel. 
+-Se refactorizo llamada al proceso de normalización de comprobantes para que no llame por cada uno a la base de datos.
+
 ## 2021.07.29
 ---
 ### Modificado
