@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2021.08.20"
+      link: "registro-cambios#20210820"
     - nombre: "2021.07.29"
       link: "registro-cambios#20210729"
     - nombre: "2021.07.07"
@@ -44,6 +46,9 @@ En este archivo se documentaran todo los cambios notables liberados en cada vers
 El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/), y para el nombre de versión se utiliza la fecha de lazamiento de la misma en el formato **AAAA.MM.DD**.
 
 ## Pendiente de liberación
+---
+
+## 2021.07.29
 ---
 ### Agregado
 - Se agrega pantalla de monitor de proceso de importación de productos.
