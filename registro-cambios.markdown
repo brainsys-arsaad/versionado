@@ -48,7 +48,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
-## 2021.07.29
+## 2021.08.20
 ---
 ### Agregado
 - Se agrega pantalla de monitor de proceso de importación de productos.
