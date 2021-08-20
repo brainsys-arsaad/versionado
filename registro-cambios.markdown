@@ -54,6 +54,11 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Se agrega pantalla de monitor de proceso de informe de pedidos.
 - Se agrega pantalla de monitor de proceso de informe de ajustes.
 - Se agrega pantalla de monitor de proceso de informe de stock.
+- **`[Brandlive]`**: Se agrego interfaz de importación de recepciones.
+- **`[Brandlive]`**: Se agrego interfaz de informe de recepciones.
+- **`[Brandlive]`**: Se agrego interfaz de informe de pedidos.
+- **`[Brandlive]`**: Se agrego interfaz de informe de ajustes.
+- **`[Brandlive]`**: Se agrego interfaz de informe de stock.
 
 ### Modificado
 - Se modifica proceso de importador excel para que la seleccion de procesos sea al comienzo con la carga del excel.
