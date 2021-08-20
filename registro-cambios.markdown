@@ -59,6 +59,10 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - **`[Brandlive]`**: Se agrego interfaz de informe de pedidos.
 - **`[Brandlive]`**: Se agrego interfaz de informe de ajustes.
 - **`[Brandlive]`**: Se agrego interfaz de informe de stock.
+- **`[Locksley]`**: Se agrego interfaz de importación de productos.
+- **`[Locksley]`**: Se agrego interfaz de importación de pedidos.
+- **`[Locksley]`**: Se agrego interfaz de informe de pedidos.
+- **`[Locksley]`**: Se agrego interfaz de informe de stock.
 
 ### Modificado
 - Se modifica proceso de importador excel para que la seleccion de procesos sea al comienzo con la carga del excel.
