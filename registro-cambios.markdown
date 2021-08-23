@@ -47,6 +47,12 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ## Pendiente de liberación
 ---
+### Agregado
+- Se agrego filtro de scanner en modulo de retiros.
+
+### Modificado
+- Se modifico formulario de carga viajes para que al editar un viaje o se cargue un viaje desde el simulador se carguen automáticamente los muelles y retiros.
+- Se modifico el filtro de módulos de retiro para que el filtro de numero este abajo de las fechas.
 
 ## 2021.08.20
 ---
