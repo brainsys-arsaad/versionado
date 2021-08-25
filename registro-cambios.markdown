@@ -78,6 +78,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Modificado
 - Se modifica proceso de importador excel para que la seleccion de procesos sea al comienzo con la carga del excel.
 - Se refactorizo llamada al proceso de normalización de comprobantes para que no llame por cada uno a la base de datos.
+- Se modifica filtro en modulo de planillas para que busque por defecto la fecha de creación de la planilla desde el primer día de la semana.
+- Se refactoriza modulo de rendición de paletas de viaje para que permita filtrar por rendidos y no rendidos.
 
 ## 2021.07.29
 ---
