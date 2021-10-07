@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2021.10.07"
+      link: "registro-cambios#20211007"
     - nombre: "2021.09.07"
       link: "registro-cambios#20210907"
     - nombre: "2021.08.20"
@@ -49,6 +51,17 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ## Pendiente de liberación
 ---
+
+## 2021.10.07
+---
+
+### Agregado
+- Se agrega funcionalidad de asignación de cliente a debito a transportista.
+- Se agrega formulario de impresión de retiros de recupero de paletas.
+- Se agrego listado de débitos a transportistas.
+- Se agrego formulario de impresión de débitos a transportistas.
+- Se agrega acción en retiros para permitir editar de forma masiva los datos de destino y los agrupamientos.
+
 
 ## 2021.09.07
 ---
