@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2021.09.07"
+      link: "registro-cambios#20210907"
     - nombre: "2021.08.20"
       link: "registro-cambios#20210820"
     - nombre: "2021.07.29"
@@ -47,8 +49,13 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ## Pendiente de liberación
 ---
+
+## 2021.09.07
+---
 ### Agregado
 - Se agrego filtro de scanner en modulo de retiros.
+- **`[Foschia]`**: Se agrego interfaz de informe de recepcion hacia Sygemat.
+- **`[Foschia]`**: Se agrego interfaz de informe de pedidos hacia Sygemat.
 
 ### Modificado
 - Se modifico formulario de carga viajes para que al editar un viaje o se cargue un viaje desde el simulador se carguen automáticamente los muelles y retiros.
