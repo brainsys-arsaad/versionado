@@ -61,6 +61,10 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Se agrego listado de débitos a transportistas.
 - Se agrego formulario de impresión de débitos a transportistas.
 - Se agrega acción en retiros para permitir editar de forma masiva los datos de destino y los agrupamientos.
+- Se agrego servicio web de carga de recepciones con alta automática de proveedor.
+
+### Modificado
+-Se modifica accion de creacion de pedidos de WMS para que primero inserte los detalles y despues la cabecera.
 
 
 ## 2021.09.07
