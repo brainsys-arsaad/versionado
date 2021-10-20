@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2021.10.19"
+      link: "registro-cambios#20211019"
     - nombre: "2021.10.07"
       link: "registro-cambios#20211007"
     - nombre: "2021.09.07"
@@ -52,6 +54,13 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+## 2021.10.19
+---
+
+### Agregado
+- Se agrego servicio web de carga de pedidos con alta automática de subcliente.
+- **`[Calico]`**: Se agregaron interfaces EDI para Energizer.
+
 ## 2021.10.07
 ---
 
@@ -64,8 +73,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Se agrego servicio web de carga de recepciones con alta automática de proveedor.
 
 ### Modificado
--Se modifica accion de creacion de pedidos de WMS para que primero inserte los detalles y despues la cabecera.
-
+- Se modifica accion de creacion de pedidos de WMS para que primero inserte los detalles y despues la cabecera.
 
 ## 2021.09.07
 ---
