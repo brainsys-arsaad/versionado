@@ -59,6 +59,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Agregado
 - Se agrego servicio web de carga de pedidos con alta automática de subcliente.
+- Se agrego interfaz de envio de etapas de comprobantes de tms hacia Optimo Camino.
+- Se agrega accion de tracking de comprobantes para que llamen a la url de optimo camino.
+- Se refactoriza login de TMS para que permita consultar el tracking de los comprobantes.
 - **`[Calico]`**: Se agregaron interfaces EDI para Energizer.
 
 ## 2021.10.07
