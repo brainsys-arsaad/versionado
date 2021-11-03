@@ -54,6 +54,16 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Agregado
+- En el tipo de unidad se agrego una parametrización para indicar que permite cargar a granel. 
+- En el viaje se agrego una parametrización para indicar que sale sin paletas, esto siempre y cuando el tipo de unidad permita carga a granel.
+
+
+### Modificado
+- Se modifica listado Excel de rendición de paletas para mostrar las paletas utilizadas, rendidas, debitadas y a recuperar. 
+- Se modifico reporte de viajes y hojas de ruta para que si el viaje sale sin paletas, se pueda visualizar en los reportes.
+- Se modifico carga de paletas a muelles para que si tiene un viaje asignado se actualicen las paletas también en el viaje.
+ 
 ## 2021.10.19
 ---
 
