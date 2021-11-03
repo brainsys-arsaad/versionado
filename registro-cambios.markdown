@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2021.11.03"
+      link: "registro-cambios#20211103"
     - nombre: "2021.10.19"
       link: "registro-cambios#20211019"
     - nombre: "2021.10.07"
@@ -54,6 +56,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+## 2021.11.03
+---
 ### Agregado
 - En el tipo de unidad se agrego una parametrización para indicar que permite cargar a granel. 
 - En el viaje se agrego una parametrización para indicar que sale sin paletas, esto siempre y cuando el tipo de unidad permita carga a granel.
