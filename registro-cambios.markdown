@@ -56,6 +56,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Modificado
+- Se modificaron filtros de proceso de tms para que autocompleten los filtros de números desde y hasta.
+
 ## 2021.11.03
 ---
 ### Agregado
