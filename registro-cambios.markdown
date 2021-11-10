@@ -55,7 +55,17 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ## Pendiente de liberación
 ---
+### Agregado
+- En consulta de muelles se agrego filtro para poder buscar muelles con o sin comprobantes.
 
+### Modificado
+- Se refactorizo performance de las anulaciones de muelles y en el proceso de anulación por reasignación se agrego funcionalidad para que también mantenga las paletas utilizadas.
+- Se refactorizo performance de grilla de comprobantes dentro del modulo de muelles.
+- Se refactorizo performance de proceso de anulación de viaje y además se modifico para que limpie el valor del viaje.
+- Se refactorizo performance de grilla de muelles dentro del modulo de viajes.
+- Se refactorizo performance de emisión de hojas de ruta.
+- Se refactorizo performance de anulación de hojas de ruta.
+ 
 ### Modificado
 - Se modificaron filtros de proceso de tms para que autocompleten los filtros de números desde y hasta.
 
@@ -64,7 +74,6 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Agregado
 - En el tipo de unidad se agrego una parametrización para indicar que permite cargar a granel. 
 - En el viaje se agrego una parametrización para indicar que sale sin paletas, esto siempre y cuando el tipo de unidad permita carga a granel.
-
 
 ### Modificado
 - Se modifica listado Excel de rendición de paletas para mostrar las paletas utilizadas, rendidas, debitadas y a recuperar. 
