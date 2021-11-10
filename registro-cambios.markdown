@@ -65,6 +65,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Se refactorizo performance de grilla de muelles dentro del modulo de viajes.
 - Se refactorizo performance de emisión de hojas de ruta.
 - Se refactorizo performance de anulación de hojas de ruta.
+- Se modifica acción de asignación de extra costo para que no se permita asignar si el viaje esta anulado o finalizado.
  
 ### Modificado
 - Se modificaron filtros de proceso de tms para que autocompleten los filtros de números desde y hasta.
