@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2021.11.25"
+      link: "registro-cambios#20211125"
     - nombre: "2021.11.03"
       link: "registro-cambios#20211103"
     - nombre: "2021.10.19"
@@ -54,6 +56,9 @@ En este archivo se documentaran todo los cambios notables liberados en cada vers
 El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/), y para el nombre de versión se utiliza la fecha de lazamiento de la misma en el formato **AAAA.MM.DD**.
 
 ## Pendiente de liberación
+---
+
+## 2021.11.25
 ---
 ### Agregado
 - En consulta de muelles se agrego filtro para poder buscar muelles con o sin comprobantes.
