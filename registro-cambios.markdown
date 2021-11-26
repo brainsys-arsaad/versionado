@@ -72,6 +72,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Se refactorizo performance de anulación de hojas de ruta.
 - Se modifica acción de asignación de extra costo para que no se permita asignar si el viaje esta anulado o finalizado.
 - Se modificaron filtros de proceso de tms para que autocompleten los filtros de números desde y hasta.
+- Se realizo refactor del modulo de planillas.
 
 ## 2021.11.03
 ---
