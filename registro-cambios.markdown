@@ -94,6 +94,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Se refactoriza login de TMS para que permita consultar el tracking de los comprobantes.
 - **`[Calico]`**: Se agregaron interfaces EDI para Energizer.
 
+### Modificado
+- **`[Calyco Uruguay]`**: Se modifica listado de liquidación de transportista particular para que en el destino muestre la localidad que selecciono el sistema para pagar el viaje.
+
 ## 2021.10.07
 ---
 
