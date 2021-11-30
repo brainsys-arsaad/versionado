@@ -73,7 +73,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Se modifica acción de asignación de extra costo para que no se permita asignar si el viaje esta anulado o finalizado.
 - Se modificaron filtros de proceso de tms para que autocompleten los filtros de números desde y hasta.
 - Se realizo refactor del modulo de planillas.
-- Se agregar permisos a todas las acciones de planilla.
+- Se agregan permisos a todas las acciones de planilla.
 
 ## 2021.11.03
 ---
