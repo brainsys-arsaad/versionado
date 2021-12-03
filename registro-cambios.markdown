@@ -62,6 +62,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ---
 ### Agregado
 - En consulta de muelles se agrego filtro para poder buscar muelles con o sin comprobantes.
+- Se agrega ordenamiento en grillas de distribucion.
 
 ### Modificado
 - Se refactorizo performance de las anulaciones de muelles y en el proceso de anulación por reasignación se agrego funcionalidad para que también mantenga las paletas utilizadas.
