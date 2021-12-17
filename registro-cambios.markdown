@@ -57,6 +57,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ## Pendiente de liberación
 ---
+- Se refactorizo formulario de clientes.
 
 ## 2021.11.25
 ---
