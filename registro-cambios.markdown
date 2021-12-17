@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2021.12.17"
+      link: "registro-cambios#20211217"
     - nombre: "2021.11.25"
       link: "registro-cambios#20211125"
     - nombre: "2021.11.03"
@@ -57,6 +59,13 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ## Pendiente de liberación
 ---
+
+## 2021.12.17
+---
+### Agregado
+- Se genera modulo de atención a clientes con consultas de trazabilidad
+
+### Modificado
 - Se refactorizo formulario de clientes.
 
 ## 2021.11.25
