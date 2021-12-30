@@ -59,9 +59,11 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ## Pendiente de liberación
 ---
+### Agregado
+- Se agrego accion en nomencladores para poder duplicar nomencladores.
+
 ### Modificado
 - Se refactorizo formulario de nomencladores
-- Se agrego accion en nomencladores para poder duplicar nomencladores.
 
 ## 2021.12.17
 ---
