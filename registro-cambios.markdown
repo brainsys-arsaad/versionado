@@ -73,6 +73,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Modificado
 - Se refactorizo formulario de clientes.
 - Se corrige mapeo de acciones de planillas.
+- Se refactorizo valorizacion por destino mas largo para que compare bien los recorridos númericos.
 
 ## 2021.11.25
 ---
