@@ -64,7 +64,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Modificado
 - Se refactorizo formulario de nomencladores
-
+- Se modificaron permisos en retiros para poder editar la observación de los retiros no emitidos.
+- Se modificaron formularios de impresión de retiros para que si no tienen un remitente asignado que muestre los datos del cliente.
+- 
 ## 2021.12.17
 ---
 ### Agregado
