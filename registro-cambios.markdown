@@ -60,13 +60,14 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 ### Agregado
-- Se agrego accion en nomencladores para poder duplicar nomencladores.
+- Nomencladores: Se agrego accion para poder duplicar.
 
 ### Modificado
-- Se refactorizo formulario de nomencladores
-- Se refactorizo formulario de tarifas
-- Se modificaron permisos en retiros para poder editar la observación de los retiros no emitidos.
-- Se modificaron formularios de impresión de retiros para que si no tienen un remitente asignado que muestre los datos del cliente.
+- Nomencladores: Se refactorizo formulario.
+- Tarifas: Se refactorizo formulario.
+- Retiros: Se modificaron permisos para poder editar la observación de los retiros no emitidos.
+- Retiros: Se modificaron formularios de impresión para que si no tienen un remitente asignado que muestre los datos del cliente.
+- **`[Calico]`**: Se realizo refactor de integraciones de importacion de pedidos y ordenes de retiro del cliente Bianchi.
 
 ## 2021.12.17
 ---
