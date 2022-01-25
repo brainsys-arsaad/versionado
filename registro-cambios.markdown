@@ -72,11 +72,12 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ---
 ### Agregado
 - Se genera modulo de atención a clientes con consultas de trazabilidad
+- **`[Bls]`**: Se agergo interfaz de informe de pedidos hacia GroupeSEB.
 
 ### Modificado
 - Se refactorizo formulario de clientes.
 - Se corrige mapeo de acciones de planillas.
-- Se refactorizo valorizacion por destino mas largo para que compare bien los recorridos númericos.
+- Se refactorizo valorizacion por destino mas largo para que compare bien los recorridos numéricos.
 
 ## 2021.11.25
 ---
