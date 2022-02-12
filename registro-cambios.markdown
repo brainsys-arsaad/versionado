@@ -69,9 +69,11 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Modificado
 - Nomencladores: Se refactorizo formulario.
+- Nomencladores: Se modifico combo de plantilla de muelles para que este ordenado alfabeticamente.
 - Tarifas: Se refactorizo formulario.
 - Retiros: Se modificaron permisos para poder editar la observación de los retiros no emitidos.
 - Retiros: Se modificaron formularios de impresión para que si no tienen un remitente asignado que muestre los datos del cliente.
+- Comprobante: Se refactorizo carga manual.
 - **`[Calico]`**: Se realizo refactor de integraciones de importacion de pedidos y ordenes de retiro del cliente Bianchi.
 
 ## 2021.12.17
