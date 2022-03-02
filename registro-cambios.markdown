@@ -62,6 +62,11 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Modificado
+- Adicionales: Se refactorizo formulario.
+- Regla de adicionales: Se refactorizo formulario y se agrego posibilidad de inactivar una regla.
+- Viaje: Se refactorizo asignación de adicionales para permitir obtener solo las reglas que estan activas y para permitir indicar una observacion al agregar el adicional.
+
 ## 2022.01.27
 ---
 ### Agregado
