@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2022.03.02"
+      link: "registro-cambios#20220302"
     - nombre: "2022.01.27"
       link: "registro-cambios#20220127"
     - nombre: "2021.12.17"
@@ -62,6 +64,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+## 2022.03.02
+---
 ### Modificado
 - Adicionales: Se refactorizo formulario.
 - Regla de adicionales: Se refactorizo formulario y se agrego posibilidad de inactivar una regla.
