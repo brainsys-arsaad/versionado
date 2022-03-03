@@ -66,6 +66,10 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ## 2022.03.02
 ---
+
+### Agregado
+- Viaje: Se agrego campo de fecha de creacion en tabla de viajes para que sean mas performantes las buquedas por fecha de creacion.
+
 ### Modificado
 - Adicionales: Se refactorizo formulario.
 - Regla de adicionales: Se refactorizo formulario y se agrego posibilidad de inactivar una regla.
