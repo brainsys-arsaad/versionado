@@ -64,6 +64,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Modificado
+- Simulador de trafico: Se refactorizo formulario.
+
 ## 2022.03.02
 ---
 
