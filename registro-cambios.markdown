@@ -66,7 +66,6 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Modificado
 - Simulador de trafico: Se refactorizo formulario.
-- Comprobantes de recepcion: Se modifico listado excel estandar para que si el comprobante se encuentra almacenado muestre como fecha de conforme su ocurrencia de pendiente de resolucion o en su defecto su almacenaje.
 
 ## 2022.03.02
 ---
@@ -78,6 +77,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Adicionales: Se refactorizo formulario.
 - Regla de adicionales: Se refactorizo formulario y se agrego posibilidad de inactivar una regla.
 - Viaje: Se refactorizo asignación de adicionales para permitir obtener solo las reglas que estan activas y para permitir indicar una observacion al agregar el adicional.
+- Comprobantes de recepcion: Se modifico listado excel estandar para que si el comprobante se encuentra almacenado muestre como fecha de conforme su ocurrencia de pendiente de resolucion o en su defecto su almacenaje.
 
 ## 2022.01.27
 ---
