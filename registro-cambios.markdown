@@ -78,6 +78,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Regla de adicionales: Se refactorizo formulario y se agrego posibilidad de inactivar una regla.
 - Viaje: Se refactorizo asignación de adicionales para permitir obtener solo las reglas que estan activas y para permitir indicar una observacion al agregar el adicional.
 - Comprobantes de recepcion: Se modifico listado excel estandar para que si el comprobante se encuentra almacenado muestre como fecha de conforme su ocurrencia de pendiente de resolucion o en su defecto su almacenaje.
+- Reglas de valorizacion: Se corrige filtro por tarifa. Ya que no reconocia algunas tarifas.
 
 ## 2022.01.27
 ---
