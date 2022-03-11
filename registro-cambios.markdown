@@ -66,6 +66,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Modificado
 - Simulador de trafico: Se refactorizo formulario.
+- Comprobantes de recepcion: Se modifico listado excel estandar para que si el comprobante se encuentra almacenado muestre como fecha de conforme su ocurrencia de pendiente de resolucion o en su defecto su almacenaje.
 
 ## 2022.03.02
 ---
