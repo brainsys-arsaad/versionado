@@ -64,6 +64,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Agregado
+- Nomencladores comerciales: Se genero modulo para dar de alta nomencladores comerciales.
+
 ### Modificado
 - Simulador de trafico: Se refactorizo formulario.
 
