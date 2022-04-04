@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2022.04.04"
+      link: "registro-cambios#20220404"
     - nombre: "2022.03.02"
       link: "registro-cambios#20220302"
     - nombre: "2022.01.27"
@@ -64,15 +66,17 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+## 2022.04.04
+---
 ### Agregado
 - Nomencladores comerciales: Se genero modulo para dar de alta nomencladores comerciales.
 
 ### Modificado
 - Simulador de trafico: Se refactorizo formulario.
+- Muelles: Se agrego campo de fecha de carga para hacer performantes consultas que necesiten la fecha de creación del muelle.
 
 ## 2022.03.02
 ---
-
 ### Agregado
 - Viaje: Se agrego campo de fecha de creacion en tabla de viajes para que sean mas performantes las buquedas por fecha de creacion.
 
