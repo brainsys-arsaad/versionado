@@ -74,6 +74,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Modificado
 - Simulador de trafico: Se refactorizo formulario.
 - Muelles: Se agrego campo de fecha de carga para hacer performantes consultas que necesiten la fecha de creación del muelle.
+- Importador excel: Se modifico importador excel para que permita indicar los bultos y los metros cubicos del comprobante. Ademas se agrego la logica para que en el caso de no indicar kilogramos o metros cubicos y el cliente permita calcular dicho valor de acuerdo al coeficiente que lo complete.
 
 ## 2022.03.02
 ---
