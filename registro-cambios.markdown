@@ -68,6 +68,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Agregado
 - Picking automatico: Se agrego interfaz para llamar al picking automatico de SAAD con parametrizaciones.
+- Tienda Nube: Se agrego interfaz de importacion de pedidos desde Tienda Nube.
+- Tienda Nube: Se agregaron intefaces de informe de pedidos de empaquetado y envio de ordenes a Tienda Nube.
 - **`[Brandlive]`**: Se agrego interfaz de importacion de pedidos de txt.
 - **`[Brandlive]`**: Se agrego interfaz de informe de pedidos de txt para las cuentas que no son de Nike.
 - **`[Brandlive]`**: Se agrego interfaz de informe de disponibilidad de csv.
