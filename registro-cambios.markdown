@@ -67,6 +67,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ---
 
 ### Agregado
+- Atencion a clientes: Se agrego modulo de atencion a clientes.
 - Picking automatico: Se agrego interfaz para llamar al picking automatico de SAAD con parametrizaciones.
 - Tienda Nube: Se agrego interfaz de importación de pedidos desde Tienda Nube.
 - Tienda Nube: Se agregaron interfaces de informe de pedidos de empaquetado y envio de ordenes a Tienda Nube.
