@@ -66,6 +66,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+## 2022.05.06
+---
 ### Agregado
 - Atencion a clientes: Se agrego modulo de atencion a clientes.
 - Picking automatico: Se agrego interfaz para llamar al picking automatico de SAAD con parametrizaciones.
