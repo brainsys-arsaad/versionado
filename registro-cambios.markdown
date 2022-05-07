@@ -85,6 +85,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Modificado
 - Comprobantes: Se refactorizo carga de comprobante para que permita asignar solo los tipos de formularios que tiene asignado el cliente.
 - Hojas de ruta: Se agregan filtros de flota.
+- **`[Calyco Uruguay]`**: Se modifica reporte de liquidacion de viajes para que muestre el recorrido del destino mas lejano.
 
 ## 2022.04.04
 ---
