@@ -67,7 +67,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ## Pendiente de liberación
 ---
-###Agregado
+### Agregado
 - Facturador: Se genero modulo de facturacion.
 - Tipos de recepcion: Se genero modulo de tipos de recepcion.
 - Tipos de pedido: Se genero modulo de tipos de pedido.
