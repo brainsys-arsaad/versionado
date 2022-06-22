@@ -67,11 +67,19 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ## Pendiente de liberación
 ---
+###Agregado
+- Facturador: Se genero modulo de facturacion.
+- Tipos de recepcion: Se genero modulo de tipos de recepcion.
+- Tipos de pedido: Se genero modulo de tipos de pedido.
+- Tipos de transaccion: Se genero modulo de tipos de transaccion.
+- Centros de costo: Se genero modulo de centros de costo.
+
 ### Modificado
 - Conexiones: Se refactorizo controlador y se quito conexion de interfaz.
 - Roles: Se refactorizo formulario.
 - Usuarios: Se refactorizo formulario y se corrigio bug de que no respetaba las acciones asignadas al rol.
 - Cambio sucursal-sector: Se refactorizo para que al cambiar el sector se refresque en el login del sistema.
+- Sectores: Se refactorizo formulario y se agrega asignacion de servicios facturables.
 
 ## 2022.05.06
 ---
