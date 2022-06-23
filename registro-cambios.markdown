@@ -73,6 +73,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Tipos de pedido: Se genero modulo de tipos de pedido.
 - Tipos de transaccion: Se genero modulo de tipos de transaccion.
 - Centros de costo: Se genero modulo de centros de costo.
+- **`[Calyco Uruguay]`**: Se agrego formulario de inspección en hojas de ruta.
 
 ### Modificado
 - Conexiones: Se refactorizo controlador y se quito conexion de interfaz.
@@ -80,6 +81,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Usuarios: Se refactorizo formulario y se corrigio bug de que no respetaba las acciones asignadas al rol.
 - Cambio sucursal-sector: Se refactorizo para que al cambiar el sector se refresque en el login del sistema.
 - Sectores: Se refactorizo formulario y se agrega asignacion de servicios facturables.
+- Trazabilidad: Se agrego el campo de tipo de pedido para poder visualizar el tipo de comprobante del wms.
 
 ## 2022.05.06
 ---
