@@ -82,6 +82,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Cambio sucursal-sector: Se refactorizo para que al cambiar el sector se refresque en el login del sistema.
 - Sectores: Se refactorizo formulario y se agrega asignacion de servicios facturables.
 - Trazabilidad: Se agrego el campo de tipo de pedido para poder visualizar el tipo de comprobante del wms.
+- Importador de pedidos Tienda Nube: Se corrige importador para que obtenga la razon social completa y en el domicilio tenga en cuenta el departamento.
 
 ## 2022.05.06
 ---
