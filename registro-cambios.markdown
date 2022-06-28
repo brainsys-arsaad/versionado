@@ -83,6 +83,11 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Sectores: Se refactorizo formulario y se agrega asignacion de servicios facturables.
 - Trazabilidad: Se agrego el campo de tipo de pedido para poder visualizar el tipo de comprobante del wms.
 - Importador de pedidos Tienda Nube: Se corrige importador para que obtenga la razon social completa y en el domicilio tenga en cuenta el departamento.
+- Débitos Transportistas: Se modifica anulación para que las paletas del debito sean rendidas o se asignen a un retiro de recupero.
+- Retiros de recupero: Se modifica para permitir modificar medidas, datos de destino y observación de los retiros de recupero en estado creada y emitida.
+- Retiros: Se agrega funcionalidad para turnar un retiro vencido.
+- Rendición de paletas: Se agrega reporte de rendición desconsolidado para que aparezcan datos de los retiros de recupero.
+- Impresión retiros de recupero: Se modifica para que aparezcan las medidas del retiro de recupero.
 
 ## 2022.05.06
 ---
