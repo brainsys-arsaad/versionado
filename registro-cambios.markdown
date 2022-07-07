@@ -70,6 +70,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Agregado
+- Presentacion Deposito: Se genera solucion para realizar la presentacion web del sistema deposito (wms).
+
 ## 2022.06.29
 ---
 ### Agregado
