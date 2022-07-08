@@ -70,8 +70,18 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+## 2022.07.08
+---
+
 ### Agregado
 - Presentacion Deposito: Se genera solucion para realizar la presentacion web del sistema deposito (wms).
+- Paradas: Se genera el maestro de paradas.
+- Valorizacion: Se genera valorizacion por parada.
+
+### Modificado
+- Comprobantes: Se modifica para permitir indicar una parada.
+- Retiros: Se modifica para permitir indicar una parada.
+- Destinatarios: Se modifica para permitir indicar una parada.
 
 ## 2022.06.29
 ---
