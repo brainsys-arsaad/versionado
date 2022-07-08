@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2022.07.08"
+      link: "registro-cambios#20220708"
     - nombre: "2022.06.29"
       link: "registro-cambios#20220629"
     - nombre: "2022.05.06"
