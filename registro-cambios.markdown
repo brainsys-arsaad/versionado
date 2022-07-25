@@ -72,6 +72,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+- Argontech: Se genera integracion con Argontech para marcar como digitalizado un comprobante en TMS.
+
 ## 2022.07.08
 ---
 
