@@ -72,8 +72,13 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Agregado
 - Argontech: Se genera integracion con Argontech para marcar como digitalizado un comprobante en TMS.
 
+### Modificado
+- Se modifica importador de recepciones para que si algún lote en el WMS lo genere automáticamente.
+- Se modifica carga de detalle de recepción en modulo de turnos para que si algún lote no existe en el WMS lo genere automáticamente.
+- 
 ## 2022.07.08
 ---
 
