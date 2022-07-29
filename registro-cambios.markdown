@@ -6,8 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
-    - nombre: "2022.07.08"
-      link: "registro-cambios#20220708"
+    - nombre: "2022.07.29"
+      link: "registro-cambios#20220729"
     - nombre: "2022.06.29"
       link: "registro-cambios#20220629"
     - nombre: "2022.05.06"
@@ -72,25 +72,22 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
-### Agregado
-- Argontech: Se genera integracion con Argontech para marcar como digitalizado un comprobante en TMS.
-
-### Modificado
-- Se modifica importador de recepciones para que si algún lote en el WMS lo genere automáticamente.
-- Se modifica carga de detalle de recepción en modulo de turnos para que si algún lote no existe en el WMS lo genere automáticamente.
-
-## 2022.07.08
+## 2022.07.29
 ---
 
 ### Agregado
 - Presentacion Deposito: Se genera solucion para realizar la presentacion web del sistema deposito (wms).
 - Paradas: Se genera el maestro de paradas.
 - Valorizacion: Se genera valorizacion por parada.
-
+- Argontech: Se genera integracion con Argontech para marcar como digitalizado un comprobante en TMS.
+- Informe Sms: Se agrega integracion de informe de SMS.
+-
 ### Modificado
 - Comprobantes: Se modifica para permitir indicar una parada.
 - Retiros: Se modifica para permitir indicar una parada.
 - Destinatarios: Se modifica para permitir indicar una parada.
+- Se modifica importador de recepciones para que si algún lote en el WMS lo genere automáticamente.
+- Se modifica carga de detalle de recepción en modulo de turnos para que si algún lote no existe en el WMS lo genere automáticamente.
 
 ## 2022.06.29
 ---
