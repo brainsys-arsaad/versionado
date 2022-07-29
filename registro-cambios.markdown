@@ -81,13 +81,14 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Valorizacion: Se genera valorizacion por parada.
 - Argontech: Se genera integracion con Argontech para marcar como digitalizado un comprobante en TMS.
 - Informe Sms: Se agrega integracion de informe de SMS.
--
+
 ### Modificado
 - Comprobantes: Se modifica para permitir indicar una parada.
 - Retiros: Se modifica para permitir indicar una parada.
 - Destinatarios: Se modifica para permitir indicar una parada.
-- Se modifica importador de recepciones para que si algún lote en el WMS lo genere automáticamente.
-- Se modifica carga de detalle de recepción en modulo de turnos para que si algún lote no existe en el WMS lo genere automáticamente.
+- Importador: Se modifica importador de recepciones para que si algún lote en el WMS lo genere automáticamente.
+- Turnos: Se modifica carga de detalle de recepción en modulo de turnos para que si algún lote no existe en el WMS lo genere automáticamente.
+- Nomencladores: Se modifica seleccion de plantilla de muelle en carga y consulta de nomencladores para que el combo no sea un desplegable y para que no traiga los que estan dados de baja.
 
 ## 2022.06.29
 ---
