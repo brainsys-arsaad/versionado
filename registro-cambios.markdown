@@ -72,6 +72,13 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Agregado
+- Interfaz comprobantes: Se agrego interfaz de anulación de comprobantes desde el WMS hacia el TMS.
+
+### Modificado
+- Comprobantes: Se agrego posibilidad de indicar una descripción al almacenar un comprobante desde recepción.
+- Conforme: Se modifico proceso de observación y resolución de comprobantes para que por defecto muestre el estado recibido.
+
 ## 2022.07.29
 ---
 
