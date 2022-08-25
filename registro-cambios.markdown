@@ -74,10 +74,15 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Agregado
 - Interfaz comprobantes: Se agrego interfaz de anulación de comprobantes desde el WMS hacia el TMS.
+- Hojas de ruta: Se agrego nuevo reporteo por Localidad para que ordene alfabéticamente los comprobantes por localidad.
 
 ### Modificado
 - Comprobantes: Se agrego posibilidad de indicar una descripción al almacenar un comprobante desde recepción.
 - Conforme: Se modifico proceso de observación y resolución de comprobantes para que por defecto muestre el estado recibido.
+- Hojas de ruta: Se modifica grilla principal de hojas de ruta para que indique la cantidad de comprobantes que tiene asociado.
+- Hojas de ruta: Se modifica grilla detallada de comprobantes para que muestre el destino del comprobante.
+- Simulador de entrega: Se modifica grilla principal del simulador de entrega para que indique los metros cúbicos.
+- **`[Esa Logistica]`**: Se agrega reporte particular de comprobantes para que imprima etiquetas por bultos.
 
 ## 2022.07.29
 ---
