@@ -82,6 +82,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Hojas de ruta: Se modifica grilla principal de hojas de ruta para que indique la cantidad de comprobantes que tiene asociado.
 - Hojas de ruta: Se modifica grilla detallada de comprobantes para que muestre el destino del comprobante.
 - Simulador de entrega: Se modifica grilla principal del simulador de entrega para que indique los metros cúbicos.
+- Login: Se modifica login para que el boton Ingresar solo se habilite cuando se carga el sector satisfactoriamente.
 - **`[Esa Logistica]`**: Se agrega reporte particular de comprobantes para que imprima etiquetas por bultos.
 
 ## 2022.07.29
