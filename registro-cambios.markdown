@@ -78,6 +78,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - **`[Klo]`**: Se agrega integracion 947.
 - **`[Klo]`**: Se agrega integracion INVRPT.
 - **`[Klo]`**: Se agrega integracion de recepciones no integradas (importacion e  informe).
+- **`[Calyco Uruguay]`**: Se agrega importacion de pedidos de Marvisa.
+- **`[Calyco Uruguay]`**: Se agrega informe de pedidos de Marvisa.
 
 ## 2022.08.26
 ---
