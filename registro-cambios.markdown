@@ -74,6 +74,11 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Agregado
+- **`[Klo]`**: Se agrega integracion 947.
+- **`[Klo]`**: Se agrega integracion INVRPT.
+- **`[Klo]`**: Se agrega integracion de recepciones no integradas (importacion e  informe).
+
 ## 2022.08.26
 ---
 
