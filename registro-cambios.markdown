@@ -81,6 +81,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - **`[Calyco Uruguay]`**: Se agrega importacion de pedidos de Marvisa.
 - **`[Calyco Uruguay]`**: Se agrega informe de pedidos de Marvisa.
 
+### Modificado
+- Viajes: Se realiza refactor sobre modulos de viajes.
+
 ## 2022.08.26
 ---
 
