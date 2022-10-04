@@ -76,6 +76,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+- Facturador: Se modifica modulo de facturador para que se visualicen las cantidades por paletas según la parametrización del producto.
 - **`[Calyco Uruguay]`**: Se corrigio informe de pedidos de Marvisa para que genere el Excel con otra libreria ya que la actual le generaba errores al cliente.
 
 ## 2022.09.13
