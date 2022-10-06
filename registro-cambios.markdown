@@ -76,9 +76,12 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+- Valorizacion: Se refactoriza formulario de regla de valorizacion y se permite indicar a que cliente corresponde la regla, para que al momento de valorizar un viaje valide que los comprobantes/retiros de dicho viaje sean solo del cliente de la regla. 
+- Tarifas: Se modifica para permitir asignar una descripcion a los recorridos.
+- Hojas Ruta: Se corrige filtro de hojas de ruta para que permita obtener las hojas de ruta que puede visualizar el usuario.
+- Facturador: Se modifica modulo de facturador para que se visualicen las cantidades por paletas según la parametrización del producto.
 - Pedidos Wms: Se agrega propiedad de cantidad confirmada en los detalles de los pedidos del WMS para permitir informar la cantidad confirmada de los productos preparados.
 - Pedidos Wms: Se agrega servicio web de carga de pedidos del wms para que permita crearlos directamente en la bolsa de picking.
-- Facturador: Se modifica modulo de facturador para que se visualicen las cantidades por paletas según la parametrización del producto.
 - **`[Calyco Uruguay]`**: Se corrigio informe de pedidos de Marvisa para que genere el Excel con otra libreria ya que la actual le generaba errores al cliente.
 - **`[Locksley]`**: Se corrigió informe de pedidos de Marvisa para que para que al informar las series no agrupe los detalles de la MSOPEDD porque sino hay series que no se informan.
 
