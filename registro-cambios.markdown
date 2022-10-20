@@ -78,6 +78,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Modificado
+- Paradas: Se modifica maestro de paradas e importación de destinatarios y comprobantes para que no valide por nombre y numero de calle sino por domicilio completo..
+
 ## 2022.10.06
 ---
 
