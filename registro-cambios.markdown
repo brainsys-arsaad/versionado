@@ -80,6 +80,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Modificado
 - Paradas: Se modifica maestro de paradas e importación de destinatarios y comprobantes para que no valide por nombre y numero de calle sino por domicilio completo..
+- Importacion pedidos SQL: Se modifican procedimientos almacenados de importacion de pedidos al WMS para que si el pedido ya existe en el WMS lo mande al historico.
 
 ## 2022.10.06
 ---
