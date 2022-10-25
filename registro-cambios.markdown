@@ -93,6 +93,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Hojas Ruta: Se corrige filtro de hojas de ruta para que permita obtener las hojas de ruta que puede visualizar el usuario.
 - Facturador: Se modifica modulo de facturador para que se visualicen las cantidades por paletas según la parametrización del producto.
 - Pedidos Wms: Se agrega propiedad de cantidad confirmada en los detalles de los pedidos del WMS para permitir informar la cantidad confirmada de los productos preparados.
+- Importador Excel: Se modifica importador de excel de comprobantes para que si no se carga un remitente tome los datos de localidad y domicilio de origen de la sucursal.
 - **`[Calyco Uruguay]`**: Se corrigio informe de pedidos de Marvisa para que genere el Excel con otra libreria ya que la actual le generaba errores al cliente.
 - **`[Locksley]`**: Se corrigió informe de pedidos de Marvisa para que para que al informar las series no agrupe los detalles de la MSOPEDD porque sino hay series que no se informan.
 
