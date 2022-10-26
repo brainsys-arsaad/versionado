@@ -82,7 +82,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - **`[Calico]`**: Se agregan interfaces de importacion e informe de pedidos y recepciones para la cuenta Emerson.
 
 ### Modificado
-- Paradas: Se modifica maestro de paradas e importación de destinatarios y comprobantes para que no valide por nombre y numero de calle sino por domicilio completo..
+- Paradas: Se modifica maestro de paradas e importación de destinatarios y comprobantes para que no valide por nombre y numero de calle sino por domicilio completo.
+- Viajes: Se agrega accion en grilla principal para permitir dar de alta las paradas inexistentes.
 - Importacion pedidos SQL: Se modifican procedimientos almacenados de importacion de pedidos al WMS para que si el pedido ya existe en el WMS lo mande al historico.
 - **`[Intralog]`**: Se modifica interfaz de informador de pedidos de S2GO para que informe las series preparadas. Ademas se agrega validacion para que si el producto maneja serie no se envie el informe hasta tanto las series hayan sidos confirmadas.
 
