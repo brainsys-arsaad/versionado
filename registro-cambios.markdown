@@ -80,6 +80,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Agregado
 - **`[Calico]`**: Se agregan interfaces de importacion e informe de pedidos y recepciones para la cuenta Emerson.
+- **`[Eternal Software]`**: Se agrega interfaz de informe de paletas desde el WMS.
+- **`[Eternal Software]`**: Se agrega interfaz de informe de comprobantes desde el TMS.
 
 ### Modificado
 - Paradas: Se modifica maestro de paradas e importación de destinatarios y comprobantes para que no valide por nombre y numero de calle sino por domicilio completo.
