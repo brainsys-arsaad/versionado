@@ -80,6 +80,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Agregado
+- Lead Time: Se agrega interfaz de actualizacion de fechas de entrega de comprobantes segun nomenclador comercial.
+
 ## 2022.10.27
 ---
 
