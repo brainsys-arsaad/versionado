@@ -83,6 +83,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Agregado
 - Lead Time: Se agrega interfaz de actualizacion de fechas de entrega de comprobantes segun nomenclador comercial.
 
+### Modificado
+- **`[Gestion Logistica SB]`**: Se modifican interfaces de informe de stock vía correo electrónico para que los productos se informen sin los 0 (cero) adelante.
+
 ## 2022.10.27
 ---
 
