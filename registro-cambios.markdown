@@ -82,6 +82,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Agregado
 - Lead Time: Se agrega interfaz de actualizacion de fechas de entrega de comprobantes segun nomenclador comercial.
+- Maestros Wms: Se agregan los maestros de emplazamiento, almacen, compañia y proveedores al Master para poder relacionarlos a los roles/usuarios y asi poder filtrar la informacion en los servicios web estandar de deposito.
 
 ### Modificado
 - **`[Gestion Logistica SB]`**: Se modifican interfaces de informe de stock vía correo electrónico para que los productos se informen sin los 0 (cero) adelante.
