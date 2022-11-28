@@ -85,6 +85,13 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Maestros Wms: Se agregan los maestros de emplazamiento, almacen, compañia y proveedores al Master para poder relacionarlos a los roles/usuarios y asi poder filtrar la informacion en los servicios web estandar de deposito.
 
 ### Modificado
+- Comprobantes recepción: Se modifica filtro por defecto para que también traiga los comprobantes pendientes de entrega.
+- Tipos de adicional: Se corrige carga, grilla y consulta para poder asignar, filtrar y visualizar correctamente la empresa de transporte.
+- Hojas de ruta: Se modifica reporte de impresión por localidad para que muestre el valor declarado de los comprobantes.
+- Destinatarios: Se corrige filtro de localidad y se quita validación obsoleta para permitir retiro de un destinatario contado.
+- Turnado de comprobantes: Se modifica para permitir guardar en la etapa la nueva fecha y hora de turno.
+- Clientes Se quita validación obsoleta para permitir asignar sucursales y tipos de formulario a clientes contado.
+- Reglas de valorización: Se corrige carga, grilla y consulta para poder asignar, filtrar y visualizar correctamente el tipo de unidad.
 - **`[Gestion Logistica SB]`**: Se modifican interfaces de informe de stock vía correo electrónico para que los productos se informen sin los 0 (cero) adelante.
 
 ## 2022.10.27
