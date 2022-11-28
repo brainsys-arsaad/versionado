@@ -99,6 +99,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Optimo Camino: Se agrega parametrización para permitir informar una especialidad segun los agrupamientos del comprobante.
 - Optimo Camino: Se modifica para informar como ventana horario la hora de turno.
 - **`[Gestion Logistica SB]`**: Se modifican interfaces de informe de stock vía correo electrónico para que los productos se informen sin los 0 (cero) adelante.
+- **`[Calico]`**: Se modifican interfaces de emerson para que tengan tabla de relacion de productos, lotes y series.
 
 ## 2022.10.27
 ---
