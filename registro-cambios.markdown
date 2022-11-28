@@ -83,6 +83,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Agregado
 - Lead Time: Se agrega interfaz de actualizacion de fechas de entrega de comprobantes segun nomenclador comercial.
 - Maestros Wms: Se agregan los maestros de emplazamiento, almacen, compañia y proveedores al Master para poder relacionarlos a los roles/usuarios y asi poder filtrar la informacion en los servicios web estandar de deposito.
+- Importación Web Productos Wms: Se modifica integración de importación de productos para que quede registrada en el monitor de integraciones la ejecución y para que los códigos queden guardados en una tabla de relación y en el caso de que sean de mas de 15 caracteres se importen al Wms con un código de 15 caracteres.
+- Importación Web Recepciones Wms: Se modifica integración de importación de recepciones para que quede registrada en el monitor de integraciones la ejecución.
+- Importación Web Pedidos Wms: Se modifica integración de importación de pedidos para que quede registrada en el monitor de integraciones la ejecución.
 
 ### Modificado
 - Comprobantes recepción: Se modifica filtro por defecto para que también traiga los comprobantes pendientes de entrega.
