@@ -92,6 +92,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Turnado de comprobantes: Se modifica para permitir guardar en la etapa la nueva fecha y hora de turno.
 - Clientes Se quita validación obsoleta para permitir asignar sucursales y tipos de formulario a clientes contado.
 - Reglas de valorización: Se corrige carga, grilla y consulta para poder asignar, filtrar y visualizar correctamente el tipo de unidad.
+- Optimo Camino: Se agrega parametrización para permitir informar la descripcion del muelle en vez de la hoja de ruta.
+- Optimo Camino: Se agrega parametrización para permitir informar una especialidad segun los agrupamientos del comprobante.
+- Optimo Camino: Se modifica para informar como ventana horario la hora de turno.
 - **`[Gestion Logistica SB]`**: Se modifican interfaces de informe de stock vía correo electrónico para que los productos se informen sin los 0 (cero) adelante.
 
 ## 2022.10.27
