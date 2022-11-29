@@ -88,13 +88,16 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Importación Web Pedidos Wms: Se modifica integración de importación de pedidos para que quede registrada en el monitor de integraciones la ejecución.
 
 ### Modificado
+- Nomencladores: Se corrige filtro por plantilla de muelle y se agrega columna de plantilla de muelle.
 - Comprobantes recepción: Se modifica filtro por defecto para que también traiga los comprobantes pendientes de entrega.
 - Tipos de adicional: Se corrige carga, grilla y consulta para poder asignar, filtrar y visualizar correctamente la empresa de transporte.
 - Hojas de ruta: Se modifica reporte de impresión por localidad para que muestre el valor declarado de los comprobantes.
-- Destinatarios: Se corrige filtro de localidad y se quita validación obsoleta para permitir retiro de un destinatario contado.
+- Destinatarios: Se corrige filtro de localidad, se permite editar la provincia y se quita validación obsoleta para permitir retiro de un destinatario contado.
 - Turnado de comprobantes: Se modifica para permitir guardar en la etapa la nueva fecha y hora de turno.
 - Clientes Se quita validación obsoleta para permitir asignar sucursales y tipos de formulario a clientes contado.
-- Reglas de valorización: Se corrige carga, grilla y consulta para poder asignar, filtrar y visualizar correctamente el tipo de unidad.
+- Reglas de valorización: Se corrige carga, grilla y consulta para poder asignar, filtrar y visualizar correctamente el tipo de unidad. Ademas se ordena alfabéticamente el filtro de tipo de viaje.
+- Planillas: Se modifica filtro de comprobantes para autocompletar la fecha de emisión con el primer día de la semana.
+- Atención clientes: Se agrega búsqueda por escáner en formulario de comprobantes.
 - Optimo Camino: Se agrega parametrización para permitir informar la descripcion del muelle en vez de la hoja de ruta.
 - Optimo Camino: Se agrega parametrización para permitir informar una especialidad segun los agrupamientos del comprobante.
 - Optimo Camino: Se modifica para informar como ventana horario la hora de turno.
