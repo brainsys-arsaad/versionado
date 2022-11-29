@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2022.11.29"
+      link: "registro-cambios#20221129"
     - nombre: "2022.10.27"
       link: "registro-cambios#20221027"
     - nombre: "2022.10.06"
@@ -80,12 +82,16 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+## 2022.11.29
+---
+
 ### Agregado
 - Lead Time: Se agrega interfaz de actualizacion de fechas de entrega de comprobantes segun nomenclador comercial.
 - Maestros Wms: Se agregan los maestros de emplazamiento, almacen, compañia y proveedores al Master para poder relacionarlos a los roles/usuarios y asi poder filtrar la informacion en los servicios web estandar de deposito.
 - Importación Web Productos Wms: Se modifica integración de importación de productos para que quede registrada en el monitor de integraciones la ejecución y para que los códigos queden guardados en una tabla de relación y en el caso de que sean de mas de 15 caracteres se importen al Wms con un código de 15 caracteres.
 - Importación Web Recepciones Wms: Se modifica integración de importación de recepciones para que quede registrada en el monitor de integraciones la ejecución.
 - Importación Web Pedidos Wms: Se modifica integración de importación de pedidos para que quede registrada en el monitor de integraciones la ejecución.
+- **`[Klo]`**: Se genera trigger de pedidos de asegurador para que se generen autmaticamente vales de recepcion en el almacen de aseguradora.
 
 ### Modificado
 - Nomencladores: Se corrige filtro por plantilla de muelle y se agrega columna de plantilla de muelle.
