@@ -84,6 +84,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Modificado
 - Localidades: Se realiza refactor de formulario.
+- Facturador: Se agrega relación entre cliente y proveedores para que al buscar las recepciones de un cliente solo traiga las que corresponden a sus proveedores asignados.
 
 ## 2022.11.29
 ---
