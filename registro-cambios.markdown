@@ -84,6 +84,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Agregado
 - **`[Calico]`**: Se agrega reporte "Trafico", similar al estándar de comprobantes de recepción pero mostrando las novedades de los comprobantes.
+- Justificaciones de comprobantes: Se agrega modulo de importación de justificaciones masivas vía Excel.
 
 ### Modificado
 - Localidades: Se realiza refactor de formulario.
