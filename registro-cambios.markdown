@@ -82,6 +82,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Agregado
+- **`[Calico]`**: Se agrega reporte "Trafico", similar al estándar de comprobantes de recepción pero mostrando las novedades de los comprobantes.
+
 ### Modificado
 - Localidades: Se realiza refactor de formulario.
 - Tipos de viaje: Se corrige formulario para que respete los permisos asignados al usuario.
