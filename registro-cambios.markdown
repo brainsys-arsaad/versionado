@@ -93,6 +93,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Localidades: Se realiza refactor de formulario.
 - Tipos de viaje: Se corrige formulario para que respete los permisos asignados al usuario.
 - Comprobantes: Se corrige formulario de carga de comprobantes para que permita agregar localidades, destinatarios y remitentes nuevos.
+- Comprobantes: Se modifica reporte excel estandar para que muestr el importe y el numero de la gestion de cobranza.
 - Facturador: Se agrega relación entre cliente y proveedores para que al buscar las recepciones de un cliente solo traiga las que corresponden a sus proveedores asignados.
 
 ## 2022.11.29
