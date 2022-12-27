@@ -95,6 +95,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Comprobantes: Se corrige formulario de carga de comprobantes para que permita agregar localidades, destinatarios y remitentes nuevos.
 - Comprobantes: Se modifica reporte excel estandar para que muestr el importe y el numero de la gestion de cobranza.
 - Facturador: Se agrega relación entre cliente y proveedores para que al buscar las recepciones de un cliente solo traiga las que corresponden a sus proveedores asignados.
+- **`[Calico]`**: Se mejoran integraciones Emerson para que no se encadenen los procesos si alguno falla y se modifica estructura de temporal de pedidos de Emerson.
 
 ## 2022.11.29
 ---
