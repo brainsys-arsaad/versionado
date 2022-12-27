@@ -85,9 +85,11 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Agregado
 - Justificaciones de comprobantes: Se agrega modulo de importación de justificaciones masivas vía Excel.
 - Fechas de no entrega: Se agrega formulario de fechas de no entrega para el calculo del lead time.
+- Gestion de cobranzas: Se agrega modulo de gestion de cobranza de comprobantes
 - **`[Calico]`**: Se agrega reporte "Trafico", similar al estándar de comprobantes de recepción pero mostrando las novedades de los comprobantes.
 
 ### Modificado
+- Importador Excel: Se agrega posibilidad de importar el importe de un comprobante / contra reembolso de un pedido.
 - Localidades: Se realiza refactor de formulario.
 - Tipos de viaje: Se corrige formulario para que respete los permisos asignados al usuario.
 - Comprobantes: Se corrige formulario de carga de comprobantes para que permita agregar localidades, destinatarios y remitentes nuevos.
