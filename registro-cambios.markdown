@@ -84,6 +84,11 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Modificado
+- Gestión de cobranza: Se corrige orden de columnas de fecha de creación y estados.
+- Rendición de gestión de cobranza: Se modifica reporte Excel de rendiciones para que muestre los datos del cobro de manera totalizada.
+- Planilla de rendición de gestión de cobranza: Se agrega funcionalidad para poder imprimir la planilla al momento de generarla.
+
 ## 2022.12.27
 ---
 
