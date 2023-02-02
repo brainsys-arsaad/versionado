@@ -84,6 +84,12 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+## 2023.02.02
+---
+
+### Agregado
+- Monitor recepciones: Se agrega acción para obtener listado de las recepciones seleccionadas.
+
 ### Modificado
 - Gestión de cobranza: Se corrige orden de columnas de fecha de creación y estados.
 - Rendición de gestión de cobranza: Se modifica reporte Excel de rendiciones para que muestre los datos del cobro de manera totalizada.
