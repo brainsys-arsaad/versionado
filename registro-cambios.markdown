@@ -88,6 +88,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Gestión de cobranza: Se corrige orden de columnas de fecha de creación y estados.
 - Rendición de gestión de cobranza: Se modifica reporte Excel de rendiciones para que muestre los datos del cobro de manera totalizada.
 - Planilla de rendición de gestión de cobranza: Se agrega funcionalidad para poder imprimir la planilla al momento de generarla.
+- Servicios facturables: Se agregaron campos para poder indicar que código de comprobante, servicio y campo de facturación debe asignar en el sistema de facturación SLIT.
+- Liquidación: Se modifica la creación de planilla movimiento para que se pueda persistir el servicio del movimiento. Además se modificaron los procesos de obtencion de movimientos de preparacion y recepcion para que guarden la informacion en una tabla para poder trabajar el proceso de forma automática.
 
 ## 2022.12.27
 ---
