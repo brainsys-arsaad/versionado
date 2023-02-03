@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2023.02.02"
+      link: "registro-cambios#20230202"
     - nombre: "2022.12.27"
       link: "registro-cambios#20221227"
     - nombre: "2022.11.29"
@@ -83,6 +85,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ## Pendiente de liberación
 ---
+
+### Agregado
+- Seguimiento rutas: Se agrega formulario de seguimiento de rutas para poder visualizar la geolocalización de los viajes iniciados con el sistema satelital de POINTER.
 
 ## 2023.02.02
 ---
