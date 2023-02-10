@@ -89,6 +89,11 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Agregado
 - Seguimiento rutas: Se agrega formulario de seguimiento de rutas para poder visualizar la geolocalización de los viajes iniciados con el sistema satelital de POINTER.
 
+### Modificado
+
+- Carta de porte: Se agrega validación para que obligue a ingresar importe y valor declarado.
+- **`[Calico]`**: Se modifica impresión estándar de comprobantes para que muestre el importe del comprobante.
+
 ## 2023.02.02
 ---
 
