@@ -93,6 +93,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 - Carta de porte: Se agrega validación para que obligue a ingresar importe y valor declarado.
 - Localidades: Se agrega mejora para que solo permita agregar localidades en formularios donde se seleccionan las localidades si el usuario tiene permisos para dar de alta localidades.
+- Viajes: Se modifica formulario de impresión de liquidación para que se imprima el código de barra del número de viaje.
 - **`[Calico]`**: Se modifica impresión estándar de comprobantes para que muestre el importe del comprobante.
 
 ## 2023.02.02
