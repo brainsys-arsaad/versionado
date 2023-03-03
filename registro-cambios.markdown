@@ -88,6 +88,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Agregado
+- Localidades: Se agrega reporte Excel de localidades.
+
 ## 2023.02.27
 ---
 
