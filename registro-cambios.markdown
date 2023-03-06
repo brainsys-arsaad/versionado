@@ -91,6 +91,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Agregado
 - Localidades: Se agrega reporte Excel de localidades.
 
+### Modificado
+- Viaje: Se modifica grilla de viajes para que muestre el total del valor de los adicionales en la columna de adicionales.
+
 ## 2023.02.27
 ---
 
