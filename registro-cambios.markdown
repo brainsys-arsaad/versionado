@@ -99,6 +99,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Agregado
 - Seguimiento rutas: Se agrega formulario de seguimiento de rutas para poder visualizar la geolocalización de los viajes iniciados con el sistema satelital de POINTER.
+- Monitor interfaz: Se agregan en los procesos de interfaz de productos, recepciones, pedidos, informes de recepciones e informes de pedidos listados excel para poder obtener el detalle de los procesos.
 
 ### Modificado
 
