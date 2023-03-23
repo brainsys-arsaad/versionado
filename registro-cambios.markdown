@@ -92,10 +92,12 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Localidades: Se agrega reporte Excel de localidades.
 
 ### Modificado
-- Viaje: Se modifica grilla de viajes para que muestre el total del valor de los adicionales en la columna de adicionales.
 - Servicios: Se agrega la posibilidad de indicar si es un servicio de distribución, de deposito o ambos.
 - Servicios: Se agrega en servicios facturables la posibilidad de indicar fecha de vigencia y periodicidad y que estos datos en conjunto con los valores de prefacturación se asignen desde una acción.
 - Clientes: Se modifica grilla de servicios contratados para que muestre que tipo de servicio es.
+- Comprobantes: Se corrige carga de comprobantes para que valide ingresar una letra valida y no un caracter como letra del comprobante.
+- Comprobantes: Se corrige carga de comprobantes para que valide que no se ingresen medidas menores a 0 (cero).
+- Viaje: Se modifica grilla de viajes para que muestre el total del valor de los adicionales en la columna de adicionales.
 - **`[Merqui]`**: Se modifican procedimientos de facturador de recepción, preparación y almacenamiento diario para que el calculo de paletas lo realice sobre la parametrización del producto.
 
 ## 2023.02.27
