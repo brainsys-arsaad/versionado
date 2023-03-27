@@ -99,6 +99,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Comprobantes: Se corrige carga de comprobantes para que valide que no se ingresen medidas menores a 0 (cero).
 - Viaje: Se modifica grilla de viajes para que muestre el total del valor de los adicionales en la columna de adicionales.
 - **`[Merqui]`**: Se modifican procedimientos de facturador de recepción, preparación y almacenamiento diario para que el calculo de paletas lo realice sobre la parametrización del producto.
+- **`[Calico]`**: Se refactoriza interfaz de InformeLineasRecibidas para que tenga un log y marque la orden como informada a Bianchi si desde Bianchi informan que la orden no existe ya que se entiende como que ya paso de estado.
+- **`[Calico]`**: Se migra interfaz de ImportacionSubclientes para que trabaje con el nuevo codigo de integraciones.
+- **`[Calico]`**: Se refactoriza interfaz de ImportacionPedidos para que permita dar de alta subclientes de Ecommerce.
 
 ## 2023.02.27
 ---
