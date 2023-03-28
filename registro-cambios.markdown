@@ -98,6 +98,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Comprobantes: Se corrige carga de comprobantes para que valide ingresar una letra valida y no un caracter como letra del comprobante.
 - Comprobantes: Se corrige carga de comprobantes para que valide que no se ingresen medidas menores a 0 (cero).
 - Viaje: Se modifica grilla de viajes para que muestre el total del valor de los adicionales en la columna de adicionales.
+- Viaje: Se modifica el modulo de viajes para que no permita asignar ni desasignar adicionales en viajes creados.
 - **`[Merqui]`**: Se modifican procedimientos de facturador de recepción, preparación y almacenamiento diario para que el calculo de paletas lo realice sobre la parametrización del producto.
 - **`[Calico]`**: Se refactoriza interfaz de InformeLineasRecibidas para que tenga un log y marque la orden como informada a Bianchi si desde Bianchi informan que la orden no existe ya que se entiende como que ya paso de estado.
 - **`[Calico]`**: Se migra interfaz de ImportacionSubclientes para que trabaje con el nuevo codigo de integraciones.
