@@ -90,6 +90,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Modificado
+- Muelles: Se corrige listado detallado en Excel para que muestre el transporte del viaje.
+
 ## 2023.04.04
 ---
 
