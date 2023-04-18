@@ -90,6 +90,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Agregado
+- Atención Clientes: Se agrega reporte de trazabilidad en el modulo Atención al cliente/ Trazabilidad donde se mostrara un registro por cada novedad que tenga el comprobante.
+
 ### Modificado
 - Muelles: Se corrige listado detallado en Excel para que muestre el transporte del viaje.
 - Escáner comprobantes: Se modifica funcionalidad del escáner de comprobantes para que respete el filtro principal de la consulta donde se este utilizando.
