@@ -97,6 +97,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Muelles: Se corrige listado detallado en Excel para que muestre el transporte del viaje.
 - Escáner comprobantes: Se modifica funcionalidad del escáner de comprobantes para que respete el filtro principal de la consulta donde se este utilizando.
 - Web Services Recepcion: Se modificaron web services de asignacion de lineas de recepcion, desasignacion de lineas de recepcion y eliminacion de recepciones para que validen bien las lineas completas y ademas para que completen las tablas de vales anulados del WMS (MRAVALC, MRAVALD).
+- **`[Brandlive]`**: Se corrige interfaz de informe de pedidos para que el nombre del archivo sea con el nombre definido en el archivo de configuracion mas el nombre original del archivo mas la extension definida en el archivo de configuracion.
 
 ## 2023.04.04
 ---
