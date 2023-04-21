@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2023.04.21"
+      link: "registro-cambios#20230421"
     - nombre: "2023.04.04"
       link: "registro-cambios#20230404"
     - nombre: "2023.02.27"
@@ -90,8 +92,12 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+## 2023.04.21
+---
+
 ### Agregado
 - Atención Clientes: Se agrega reporte de trazabilidad en el modulo Atención al cliente/ Trazabilidad donde se mostrara un registro por cada novedad que tenga el comprobante.
+- Consulta Stock Consolidado: Se agrega servicio web para consultar el stock consolidado por producto sin trabajar con posicion.
 
 ### Modificado
 - Comprobantes: Se quita validacion en generacion de comprobantes para que permita crear un comprobante con un cliente contado.
