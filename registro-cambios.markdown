@@ -94,6 +94,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Atención Clientes: Se agrega reporte de trazabilidad en el modulo Atención al cliente/ Trazabilidad donde se mostrara un registro por cada novedad que tenga el comprobante.
 
 ### Modificado
+- Comprobantes: Se quita validacion en generacion de comprobantes para que permita crear un comprobante con un cliente contado.
 - Muelles: Se corrige listado detallado en Excel para que muestre el transporte del viaje.
 - Escáner comprobantes: Se modifica funcionalidad del escáner de comprobantes para que respete el filtro principal de la consulta donde se este utilizando.
 - Web Services Recepcion: Se modificaron web services de asignacion de lineas de recepcion, desasignacion de lineas de recepcion y eliminacion de recepciones para que validen bien las lineas completas y ademas para que completen las tablas de vales anulados del WMS (MRAVALC, MRAVALD).
