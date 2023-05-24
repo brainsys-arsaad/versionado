@@ -93,6 +93,16 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ---
 
 ### Modificado
+- Filtros: Se cambio el icono que aparece cuando acercamos el cursor a una barra de filtro para que en vez de estar el símbolo "prohibido" este el icono de una manito.
+- Regla tipo adicional: Se corrige carga de regla de tipos de adicional para permitir indicar una sucursal para poder filtrar bien el sector. Ya que al tener sectores con mismo código pero distintas sucursales solo traía una.
+- Importador Comprobantes: En la plantilla Excel por defecto que se baja en el modulo de importador de comprobantes se agregaron 3 hojas. Una para que muestre los datos solo de distribucion, otra con los datos de Wms y otra con los datos de turno.
+- Importador Comprobantes: Se modifico importador para permitir que en el Excel se pueda indicar el tipo de comprobante que se quiere importar (Carta de Porte, Nota de devolución, Remito). Si no se indica un tipo, por defecto se utilizara el de remito para no afectar los Excel de cada cliente.
+- Conforme de comprobantes: Se modifica formulario de conforme de comprobantes para que no habilite los botones de aceptar y cancelar hasta tanto no se haya cargado toda la pantalla.
+- Formulario muelles: Se agrega en fila desplegable de muelles una etiqueta para ver la cantidad de comprobantes del muelle.
+- Resolución de comprobantes: Se refactoriza formulario de resolución de comprobantes.
+- Resolución de comprobantes: Se sube mejora en reemplazo de comprobantes para que en la etapa de los comprobantes muestre a que comprobante quedo asociado el reemplazo.
+- Muelles: En la grilla de comprobantes del formulario de carga/edición de un muelle se agrego la acción de generar viajes con dichos comprobantes siempre y cuando esten en pendiente de entrega ya que genera un nuevo muelle y una hoja de ruta para los comprobantes.
+- Comprobantes de entrega: Se agrego acción para generar viajes con comprobantes pendiente de entrega generando un nuevo muelle y una hoja de ruta para los comprobantes.
 - Retiros: Se realiza refactor del circuito de retiros.
 
 ## 2023.04.21
