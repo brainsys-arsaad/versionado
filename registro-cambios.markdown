@@ -92,6 +92,12 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+## 2023.05.24
+---
+
+### Agregado:
+- **`[Translog]`**: Se agregan integraciones con Whirlpool.
+
 ### Modificado
 - Filtros: Se cambio el icono que aparece cuando acercamos el cursor a una barra de filtro para que en vez de estar el símbolo "prohibido" este el icono de una manito.
 - Regla tipo adicional: Se corrige carga de regla de tipos de adicional para permitir indicar una sucursal para poder filtrar bien el sector. Ya que al tener sectores con mismo código pero distintas sucursales solo traía una.
