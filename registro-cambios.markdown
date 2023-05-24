@@ -104,6 +104,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Muelles: En la grilla de comprobantes del formulario de carga/edición de un muelle se agrego la acción de generar viajes con dichos comprobantes siempre y cuando esten en pendiente de entrega ya que genera un nuevo muelle y una hoja de ruta para los comprobantes.
 - Comprobantes de entrega: Se agrego acción para generar viajes con comprobantes pendiente de entrega generando un nuevo muelle y una hoja de ruta para los comprobantes.
 - Retiros: Se realiza refactor del circuito de retiros.
+- Monitor interfaz recepciones Wms: Se agrega filtro por fecha de ingreso y ejecucion de proceso.
+- Monitor interfaz pedidos Wms: Se agrega filtro por fecha de ingreso y ejecucion de proceso.
 
 ## 2023.04.21
 ---
