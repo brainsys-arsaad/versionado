@@ -94,11 +94,11 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
-## 2023.05.24
----
-
 ### Modificado
 - Comprobantes: Se agregaron datos de numeración de comprobantes y retiros a la tabla principal de comprobantes tblComprobante.
+
+## 2023.05.24
+---
 
 ### Agregado:
 - **`[Translog]`**: Se agregan integraciones con Whirlpool.
