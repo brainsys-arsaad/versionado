@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2023.05.25"
+      link: "registro-cambios#20230524"
     - nombre: "2023.04.21"
       link: "registro-cambios#20230421"
     - nombre: "2023.04.04"
@@ -94,6 +96,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ## 2023.05.24
 ---
+
+### Modificado
+- Comprobantes: Se agregaron datos de numeración de comprobantes y retiros a la tabla principal de comprobantes tblComprobante.
 
 ### Agregado:
 - **`[Translog]`**: Se agregan integraciones con Whirlpool.
