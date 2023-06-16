@@ -95,7 +95,14 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ---
 
 ### Modificado
+- Regla de valorización: Se corrige carga de regla de valorización ya que no mostraba correctamente el código de la tarifa al momento de editarla.
+- Validación de comprobantes: Se refactoriza modulo de validación de comprobantes para que permita aplicar la configuracion por tipo de formulario y además se agrega parametrización por exigencia de importe y valor declarado.
 - Comprobantes: Se agregaron datos de numeración de comprobantes y retiros a la tabla principal de comprobantes tblComprobante.
+- Comprobantes: Se modifica control de selección de cliente en carga de comprobantes para que el evento a tomar el cliente lo haga al perder el foco del control y no al ir escribiendo en el código.
+- Muelles: Se modifica el filtro de la grilla de comprobantes dentro de muelle para que por defecto solo tenga tildado los estados: Sin Confirmar, Confirmado, Recibido y Pendiente de entrega.
+- Viajes: Se refactoriza carga de viajes desde comprobantes para que permita asignar retiros al momento de la carga del viaje.
+- Almacenaje de comprobantes: Se refactoriza modulo de almacenaje.
+- Conforme comprobantes: Para el conforme en sucursal destino se agrega la posibilidad de dejar el comprobante como conformado sin viaje.
 
 ## 2023.05.24
 ---
