@@ -96,6 +96,11 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Modificado
+- Empresas de transporte: Se realiza refactor del modulo. Se agrega posibilidad de asignar documentacion y reporte excel de documentaciones operativas.
+- Choferes: Se realiza refactor del modulo. Se agrega posibilidad de asignar documentacion y reporte excel de documentaciones operativas.
+- Vehiculos: Se realiza refactor del modulo. Se agrega posibilidad de asignar documentacion y reporte excel de documentaciones operativas.
+
 ## 2023.06.30
 ---
 
