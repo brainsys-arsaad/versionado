@@ -100,6 +100,16 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Empresas de transporte: Se realiza refactor del modulo. Se agrega posibilidad de asignar documentacion y reporte excel de documentaciones operativas.
 - Choferes: Se realiza refactor del modulo. Se agrega posibilidad de asignar documentacion y reporte excel de documentaciones operativas.
 - Vehiculos: Se realiza refactor del modulo. Se agrega posibilidad de asignar documentacion y reporte excel de documentaciones operativas.
+- Importador comprobantes excel: Se modifica para que la observación que se indica en el excel llegue a las observaciones del comprobante y no a las observaciones del destinatario del comprobante.
+- Retiro: Se quita la validación para que permita crear un retiro de un cliente de contado.
+- Retiro: Se modifica asignación de comprobantes a retiro para que en las etapas quede identificado a que retiro/comprobante según corresponda quedo asociado.
+- Retiro: Se modifica grilla principal para que muestre los datos del transporte del viaje. En el caso que no tenga un viaje mostrara los datos del transporte asignado al retiro.
+- Retiro: Se modifica reporte de impresión estándar para que muestre los datos del transporte del viaje. En el caso que no tenga un viaje mostrara los datos del transporte asignado al retiro. Además para que muestre los comprobantes asociados.
+- Hojas de ruta: Se modifica reporte de impresión estándar para que ordene los comprobantes por cliente-letra-centroEmisor-número, para que tenga numeradas las filas de comprobantes y ademas se modifica leyenda duplicada de "Firma del Responsable" para que sea "Firma del Transportista".
+- Hojas de ruta: Se modifica reporte de impresión por localidad para que tenga numeradas las filas de comprobantes.
+- Planilla: Se corrige reporte de impresión para que muestre fecha de emisión y los totales de los comprobantes.
+- Planilla: Se modifica proceso de transferencia para que deje en la etapa del comprobante y la planilla a que sector fue transferida en el caso de que haya sido transferida a otro sector.
+- Planilla: Se agrega la accion para visualizar las etapas de una planilla.
 
 ## 2023.06.30
 ---
