@@ -96,6 +96,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Agregado
+- Comprobantes: Se agrega acción para poder confirmar la llegada a destino de un comprobante.
+
 ### Modificado
 - Empresas de transporte: Se realiza refactor del modulo. Se agrega posibilidad de asignar documentacion y reporte excel de documentaciones operativas.
 - Choferes: Se realiza refactor del modulo. Se agrega posibilidad de asignar documentacion y reporte excel de documentaciones operativas.
