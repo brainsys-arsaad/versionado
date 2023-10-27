@@ -104,7 +104,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ---
 
 ### Agregado
-- Cancelacion de pedidos: Se agrega integracion estandar de SQL de cancelacion de pedidos.
+- Cancelación de pedidos: Se agrega integración estándar de SQL de cancelación de pedidos.
 - **`[Urbano]`**: Se agregan integraciones con Urbano.
   
 ## 2023.09.19
