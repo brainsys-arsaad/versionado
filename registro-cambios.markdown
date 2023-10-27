@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2023.10.27"
+      link: "registro-cambios#20231027"
     - nombre: "2023.09.19"
       link: "registro-cambios#20230919"
     - nombre: "2023.06.30"
@@ -98,6 +100,12 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+## 2023.10.27
+---
+
+### Agregado
+- **`[Urbano]`**: Se agregan integraciones con Urbano.
+  
 ## 2023.09.19
 ---
 
