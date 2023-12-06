@@ -101,11 +101,11 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ---
 
 ### Modificado
-Comprobantes: Se mueve la accion de Confirmar Llegada del modulo de recepcion al modulo de Conforme.
-Viajes: Se agregaron columnas al listado de liquidación.
-Viajes: En la grilla de viajes se modifica la columna de Valorización para que contemple el valor de los adicionales.
-Viajes: En el reporte de impresion de viajes se agrega en los valores del viaje los valores de los adicionales.
-Atención clientes: Se modifica formulario de etapas para que en la descripcion muestre el codigo y descripcion del tipo de justificacion/novedad/reclamo.
+- Comprobantes: Se mueve la accion de Confirmar Llegada del modulo de recepcion al modulo de Conforme.
+- Viajes: Se agregaron columnas al listado de liquidación.
+- Viajes: En la grilla de viajes se modifica la columna de Valorización para que contemple el valor de los adicionales.
+- Viajes: En el reporte de impresion de viajes se agrega en los valores del viaje los valores de los adicionales.
+- Atención clientes: Se modifica formulario de etapas para que en la descripcion muestre el codigo y descripcion del tipo de justificacion/novedad/reclamo.
 
 ## 2023.10.27
 ---
