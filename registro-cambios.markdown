@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2023.12.27"
+      link: "registro-cambios#20231227"
     - nombre: "2023.10.27"
       link: "registro-cambios#20231027"
     - nombre: "2023.09.19"
@@ -99,6 +101,20 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ## Pendiente de liberación
 ---
+
+## 2023.12.27
+---
+
+### Agregado
+- Paises: Se agrega listado Excel y migrador.
+- Provincias: Se agrega listado Excel y migrador.
+- Localidades: Se agrega listado Excel y migrador.
+- Clientes: Se agrega listado Excel y migrador.
+- Remitentes: Se agrega listado Excel y migrador.
+- Destinatarios: Se agrega listado Excel y migrador.
+- Empresas de transporte: Se agrega listado Excel y migrador.
+- Choferes: Se agrega listado Excel y migrador.
+- Vehiculos: Se agrega listado Excel y migrador.
 
 ### Modificado
 - Comprobantes: Se mueve la accion de Confirmar Llegada del modulo de recepcion al modulo de Conforme.
