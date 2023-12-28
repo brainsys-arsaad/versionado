@@ -122,6 +122,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Viajes: En la grilla de viajes se modifica la columna de Valorización para que contemple el valor de los adicionales.
 - Viajes: En el reporte de impresion de viajes se agrega en los valores del viaje los valores de los adicionales.
 - Atención clientes: Se modifica formulario de etapas para que en la descripcion muestre el codigo y descripcion del tipo de justificacion/novedad/reclamo.
+- Turnos: Se modifica modulo de turnos de carga para que permitan asignar pedidos existentes en el WMS.
+- Turnos: Se modifica modulo de turnos de descarga para que permitan asignar recepciones existentes en el WMS.
 
 ## 2023.10.27
 ---
