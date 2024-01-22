@@ -102,6 +102,16 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Agregado
+- Nomencladores: Se agrega migración de datos y descargar de registros en Excel.
+
+### Modificado
+- Clientes: Se agrega código de servicio a la grilla y al control de selección de servicios contratados.
+- Servicios: Se agrega a la grilla principal que tipo de servicio es(deposito/distribucion).
+- Comprobantes: Se agrega acción de documentación en pantalla de comprobantes del módulo conforme.
+- Comprobantes: Se agrega al reporte estándar una columna con el teléfono del destino.
+- **`[Calico]`**: Se agrega al reporte estándar y tráfico de Comprobantes una columna con el teléfono del destino.
+
 ## 2023.12.27
 ---
 
