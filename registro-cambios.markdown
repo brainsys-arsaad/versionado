@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2024.02.06"
+      link: "registro-cambios#20240206"
     - nombre: "2023.12.27"
       link: "registro-cambios#20231227"
     - nombre: "2023.10.27"
@@ -102,9 +104,15 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+## 2024.02.06
+---
+
 ### Agregado
 - Nomencladores: Se agrega migración de datos y descargar de registros en Excel.
-
+- Monitor Proveedores: Se agrega monitor de integraciones para los proveedores.
+- Monitor Subclientes: Se agrega monitor de integraciones para los subclientes.
+- Monitor Ordenes de Compra: Se agrega monitor de integraciones para las ordenes de compra.
+   
 ### Modificado
 - Clientes: Se agrega código de servicio a la grilla y al control de selección de servicios contratados.
 - Servicios: Se agrega a la grilla principal que tipo de servicio es(deposito/distribucion).
