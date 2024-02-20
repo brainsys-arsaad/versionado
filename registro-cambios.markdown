@@ -118,6 +118,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Servicios: Se agrega a la grilla principal que tipo de servicio es(deposito/distribucion).
 - Comprobantes: Se agrega acción de documentación en pantalla de comprobantes del módulo conforme.
 - Comprobantes: Se agrega al reporte estándar una columna con el teléfono del destino.
+- Viajes: Se agrega validacion en inicio de viaje para que valide que el chofer, vehiculo o acoplado no se encuentre en otro viaje iniciado.
 - **`[Calico]`**: Se agrega al reporte estándar y tráfico de Comprobantes una columna con el teléfono del destino.
 
 ## 2023.12.27
