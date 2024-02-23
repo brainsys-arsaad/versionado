@@ -114,6 +114,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Monitor Ordenes de Compra: Se agrega monitor de integraciones para las ordenes de compra.
    
 ### Modificado
+- Interfaz: Se refactoriza generacion de obtencion de id de proceso para que trabaje con una tabla de numerador.
 - Clientes: Se agrega código de servicio a la grilla y al control de selección de servicios contratados.
 - Servicios: Se agrega a la grilla principal que tipo de servicio es(deposito/distribucion).
 - Comprobantes: Se agrega acción de documentación en pantalla de comprobantes del módulo conforme.
