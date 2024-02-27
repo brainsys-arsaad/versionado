@@ -113,7 +113,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Monitor Subclientes: Se agrega monitor de integraciones para los subclientes.
 - Monitor Ordenes de Compra: Se agrega monitor de integraciones para las ordenes de compra.
 - Configuracion: Se agrega configuracion interna en sistema de distribucion.
-   
+- Liquidacion Transportistas: Se agrega modulo de liquidacion de transportistas.
+
 ### Modificado
 - Interfaz: Se refactoriza generacion de obtencion de id de proceso para que trabaje con una tabla de numerador.
 - Clientes: Se agrega código de servicio a la grilla y al control de selección de servicios contratados.
