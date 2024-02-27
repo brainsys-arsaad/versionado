@@ -112,6 +112,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Monitor Proveedores: Se agrega monitor de integraciones para los proveedores.
 - Monitor Subclientes: Se agrega monitor de integraciones para los subclientes.
 - Monitor Ordenes de Compra: Se agrega monitor de integraciones para las ordenes de compra.
+- Configuracion: Se agrega configuracion interna en sistema de distribucion.
    
 ### Modificado
 - Interfaz: Se refactoriza generacion de obtencion de id de proceso para que trabaje con una tabla de numerador.
@@ -119,7 +120,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - Servicios: Se agrega a la grilla principal que tipo de servicio es(deposito/distribucion).
 - Comprobantes: Se agrega acción de documentación en pantalla de comprobantes del módulo conforme.
 - Comprobantes: Se agrega al reporte estándar una columna con el teléfono del destino.
-- Viajes: Se agrega validacion en inicio de viaje para que valide que el chofer, vehiculo o acoplado no se encuentre en otro viaje iniciado.
+- Viajes: Se agrega validacion en inicio de viaje para que valide que el chofer, vehiculo o acoplado no se encuentre en otro viaje iniciado. Esta puede ser configurable mediante la configuracion del sistema de distribucion.
 - **`[Calico]`**: Se agrega al reporte estándar y tráfico de Comprobantes una columna con el teléfono del destino.
 
 ## 2023.12.27
