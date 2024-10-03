@@ -106,7 +106,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
-## 2024.02.06
+## 2024.10.03
 ---
 
 ### Agregado
