@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2024.10.03"
+      link: "registro-cambios#20241003"
     - nombre: "2024.02.06"
       link: "registro-cambios#20240206"
     - nombre: "2023.12.27"
@@ -103,6 +105,17 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ## Pendiente de liberación
 ---
+
+## 2024.02.06
+---
+
+### Agregado
+- Se genera sistema de digitalización de comprobantes.
+- Se genera sistema de reportes de PowerBI.
+
+### Modificado
+- Se realiza separación de los sistemas, separando los modelos en soluciones propias (1 solución por cada modelo) y separando las presentaciones en soluciones propias (1 solución por cada sistema). 
+- Se normalizan sistemas y modelos para que todos centralicen sus maestros en el sistema de maestros.
 
 ## 2024.02.06
 ---
