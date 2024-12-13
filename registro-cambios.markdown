@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2024.12.13"
+      link: "registro-cambios#20241213"
     - nombre: "2024.10.03"
       link: "registro-cambios#20241003"
     - nombre: "2024.02.06"
@@ -106,6 +108,13 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+## 2024.12.13
+---
+
+### Agregado
+- [Distribucion] - Viajes: Se genera funcionalidad de cierre administrativo del viaje.
+- [Deposito]: Se suben mejoras en los modulos del sistema.
+  
 ## 2024.10.03
 ---
 
