@@ -117,7 +117,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Deposito] - Inventario : Se genera modulo de inventario.
 - [Deposito] - Bultos : Se genera modulo de consulta de trazabilidad de bultos con impresiones de rotulos.
 - [Deposito] - Modulos : Se suben mejoras en los modulos del sistema.
-- [APIs]: Se genera sistema de APIs.
+- [APIs] - : Se genera sistema de APIs.
 - **`[Klo]`**: Se agregan integraciones con LG.
 
 ## 2024.12.13
