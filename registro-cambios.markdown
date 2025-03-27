@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2025.03.27"
+      link: "registro-cambios#20250327"
     - nombre: "2024.12.13"
       link: "registro-cambios#20241213"
     - nombre: "2024.10.03"
@@ -107,6 +109,16 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ## Pendiente de liberación
 ---
+
+## 2025.03.27
+---
+
+### Agregado
+- [Deposito] - Inventario : Se genera modulo de inventario.
+- [Deposito] - Bultos : Se genera modulo de consulta de trazabilidad de bultos con impresiones de rotulos.
+- [Deposito] - Modulos : Se suben mejoras en los modulos del sistema.
+- [APIs]: Se genera sistema de APIs.
+- **`[Klo]`**: Se agregan integraciones con LG.
 
 ## 2024.12.13
 ---
