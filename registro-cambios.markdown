@@ -111,7 +111,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ---
 
 ### Agregado
-- Monitor Integraciones: Se suben avances del monitor de integraciones de Cancelacion de Pedidos.
+- [Monitor Integraciones]: Se suben avances del monitor de integraciones de Cancelacion de Pedidos.
 - **`[Logarte]`**: Se suben avances de integraciones con RustOleum.
 - **`[Bronzen]`**: Se suben avances de integraciones con SfgGestion.
 
