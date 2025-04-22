@@ -110,6 +110,11 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Agregado
+- Monitor Integraciones: Se suben avances del monitor de integraciones de Cancelacion de Pedidos.
+- **`[Logarte]`**: Se suben avances de integraciones con RustOleum.
+- **`[Bronzen]`**: Se suben avances de integraciones con SfgGestion.
+
 ### Modificado
 - [Deposito] - Ubicaciones: Se corrige asignacion de permanentes para que valide que la ubicacion no sea multiple producto ni tenga otro producto en stock.
 - [Deposito] - Informes Recepciones: Se agregar filtro de estado de recepcion.
