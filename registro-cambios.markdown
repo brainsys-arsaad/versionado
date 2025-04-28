@@ -117,10 +117,10 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - **`[Dada]`**: Se generan integraciones con Peugeot, Fiat y Logitex.
 - 
 ### Modificado
-- [Deposito] - Ubicaciones: Se corrige asignacion de permanentes para que valide que la ubicacion no sea multiple producto ni tenga otro producto en stock.
-- [Deposito] - Informes Recepciones: Se agregar filtro de estado de recepcion.
-- [Deposito] - Consulta de stock: Se corrige ordenamiento por lote ya que no estaba funcionando. El ordenamiento quedo por fecha de vencimiento.
-- [Sistema Digitalizacion] - Se finaliza sistema de digitalización.
+- [Deposito]: Ubicaciones: Se corrige asignacion de permanentes para que valide que la ubicacion no sea multiple producto ni tenga otro producto en stock.
+- [Deposito]: Informes Recepciones: Se agregar filtro de estado de recepcion.
+- [Deposito]: Consulta de stock: Se corrige ordenamiento por lote ya que no estaba funcionando. El ordenamiento quedo por fecha de vencimiento.
+- [Sistema Digitalizacion]: Se finaliza sistema de digitalización.
 
 
 ## 2025.03.27
