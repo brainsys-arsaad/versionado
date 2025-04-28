@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2025.04.28"
+      link: "registro-cambios#20250428"
     - nombre: "2025.03.27"
       link: "registro-cambios#20250327"
     - nombre: "2024.12.13"
@@ -110,7 +112,13 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+## 2025.04.28
+---
+
 ### Agregado
+- [Deposito] - Se agrega modulo de inventario.
+- [Deposito] - Se agrega ABM de contenedores.
+- [Deposito] - Se agrega ABM de regla de reposicion.
 - [Monitor Integraciones] - Se suben monitor de integraciones de Cancelacion de Pedidos.
 - **`[Logarte]`** - Se suben integraciones con RustOleum.
 - **`[Bronzen]`** - Se suben integraciones con SfgGestion.
