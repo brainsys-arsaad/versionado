@@ -114,6 +114,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Modificado
 
+- [Maestros] - Se corrige filtro de usuarios para que valide bien el filtro de rol.
+- [Maestros] - Se corrige edicion de remitentes para que visualice el cliente y la provincia.
 - [Turnos] - Se modificaron los estados por defecto del sistema para que se permitan visualizar en los modulos de seguimiento de turnos de carga y seguimiento de turnos de descarga.
 - [Turnos] - Se refactorizo la impresion de descarga agregando la hora del turno y corrigiendo el bug que no permitia mostrar muchos detalles del turno.
 
