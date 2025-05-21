@@ -112,6 +112,10 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Agregado
+
+- [Deposito] - Se agrega modulo de asignación de zonas de recuento a ubicaciones.
+
 ### Modificado
 
 - [Maestros] - Se corrige filtro de usuarios para que valide bien el filtro de rol.
