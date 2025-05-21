@@ -112,6 +112,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+- [Turnos] - Se modificaron los estados por defecto del sistema para que se permitan visualizar en los modulos de seguimiento de turnos de carga y seguimiento de turnos de descarga.
+
 ## 2025.04.28
 ---
 
