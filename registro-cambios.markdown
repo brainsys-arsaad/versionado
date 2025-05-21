@@ -112,7 +112,10 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Modificado
+
 - [Turnos] - Se modificaron los estados por defecto del sistema para que se permitan visualizar en los modulos de seguimiento de turnos de carga y seguimiento de turnos de descarga.
+- [Turnos] - Se refactorizo la impresion de descarga agregando la hora del turno y corrigiendo el bug que no permitia mostrar muchos detalles del turno.
 
 ## 2025.04.28
 ---
