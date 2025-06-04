@@ -117,6 +117,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Modificado
 
 - [Sistemas Brainsys] - Se modifican todos los sistemas de Brainsys para que validen que si un usuario no esta activo no le permitan loguearse.
+- [Deposito] - Se modifica el modulo de recepcion para permitir agergar un nuevo lote en el momento de la recepcion.
 
 ## 2025.05.21
 ---
