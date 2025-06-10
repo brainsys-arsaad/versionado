@@ -124,6 +124,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Deposito] - Se modifica el modulo de recepcion para permitir agergar un nuevo lote en el momento de la recepcion.
 - [Distribucion] - Se agrega filtro de kilogramos en filtros de comprobantes de entrega y comprobantes dentro del muelle.
 - [Distribucion] - Se modifica modulo de adicionales para que no permita asignar adicionales a clientes que no se encuentran dentro del viaje.
+- [Turnos] - Se corrige modulo de disponibilidad ya que por momentos mostraba un error que no permitira obtener los dias de la semana para calcular el calendario.
+- [Turnos] - Se corrige modulo de turnos para que muestre bien el remitente y para que permita ordena por fecha y hora.
 - [APIs] - Se actualizan apis estandar para que utilicen el deposito.
   
 ## 2025.05.21
