@@ -121,6 +121,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Modificado
 
 - [Sistemas Brainsys] - Se modifican todos los sistemas de Brainsys para que validen que si un usuario no esta activo no le permitan loguearse.
+- [Maestros] - En el modulo de productos se limita la cantidad de caracteres del codigo a 15 caracteres. 
 - [Deposito] - Se modifica el modulo de recepcion para permitir agergar un nuevo lote en el momento de la recepcion.
 - [Distribucion] - Se agrega filtro de kilogramos en filtros de comprobantes de entrega y comprobantes dentro del muelle.
 - [Distribucion] - Se modifica modulo de adicionales para que no permita asignar adicionales a clientes que no se encuentran dentro del viaje.
