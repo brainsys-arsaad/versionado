@@ -117,7 +117,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Agregado
 
 - [APIs] - Se agregan apis del sistema de distribucion -> Comprobantes, Viajes y Retiros.
-  
+- [Deposito] - Se agrega acción de edición masiva de ubicaciones.
+
 ### Modificado
 
 - [Sistemas Brainsys] - Se modifican todos los sistemas de Brainsys para que validen que si un usuario no esta activo no le permitan loguearse.
@@ -126,6 +127,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Maestros] - Se corrige migrador de empresas de transporte para que se le asignen las sucursales a las que tiene permiso el usuario.
 - [Maestros] - Se corrige migrador de chofer para que permita asignar el tipo de registro de conducir por el codigo y no el id interno de la base de datos.
 - [Deposito] - Se modifica el modulo de recepcion para permitir agergar un nuevo lote en el momento de la recepcion.
+- [Deposito] - Se corrigen filtros de ubicaciones en modulos de confirmaciones de recogida y almacenaje.
+- [Deposito] - Se modifica filtro de lote en modulo de informe de recepciones para que se pueda filtrar el lote sin necesidad de ingresar un producto.
 - [Distribucion] - Se agrega filtro de kilogramos en filtros de comprobantes de entrega y comprobantes dentro del muelle.
 - [Distribucion] - Se modifica modulo de adicionales para que no permita asignar adicionales a clientes que no se encuentran dentro del viaje.
 - [Turnos] - Se corrige modulo de disponibilidad ya que por momentos mostraba un error que no permitira obtener los dias de la semana para calcular el calendario.
