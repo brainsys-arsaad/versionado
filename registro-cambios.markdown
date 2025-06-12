@@ -117,8 +117,11 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Agregado
 
 - [APIs] - Se agregan apis del sistema de distribucion -> Comprobantes, Viajes y Retiros.
-- [Deposito] - Se agrega acción de edición masiva de ubicaciones.
-
+- [Deposito] - Se agrega acción de edición masiv-a de ubicaciones.
+- [Deposito] - Se agrega acción de edición masiv-a de ubicaciones.
+- **`[RojoSoft]`** - Se agregan integraciones con RojoSoft
+- **`[Ninoshka]`** - Se agregan integraciones .Net con AS400.
+- **`[Calico]`** - Se agrega integracion de Makita escaneando master series.
 ### Modificado
 
 - [Sistemas Brainsys] - Se modifican todos los sistemas de Brainsys para que validen que si un usuario no esta activo no le permitan loguearse.
