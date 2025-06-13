@@ -127,6 +127,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - **`[RojoSoft]`** - Se agregan integraciones con RojoSoft
 - **`[Ninoshka]`** - Se agregan integraciones .Net con AS400.
 - **`[Calico]`** - Se agrega integracion de Makita escaneando master series.
+
 ### Modificado
 
 - [Sistemas Brainsys] - Se modifican todos los sistemas de Brainsys para que validen que si un usuario no esta activo no le permitan loguearse.
