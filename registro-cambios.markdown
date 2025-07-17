@@ -118,7 +118,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
-## 2025.06.13
+## 2025.07.17
 ---
 
 ### Agregado
