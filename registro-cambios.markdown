@@ -123,6 +123,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Agregado
 - [Deposito] - Se agrega proceso de reposicion automatica.
+- [Deposito] - Se agrega modulo de generación de etiqueta de bulto vacía.
+- [Deposito] - Se agrega impresion al momento de generar el vale de recepcion.
 
 ## 2025.06.13
 ---
