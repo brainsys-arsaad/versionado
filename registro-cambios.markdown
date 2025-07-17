@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2025.07.17"
+      link: "registro-cambios#20250717"
     - nombre: "2025.06.13"
       link: "registro-cambios#20250613"
     - nombre: "2025.05.21"
@@ -115,6 +117,12 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ## Pendiente de liberación
 ---
+
+## 2025.06.13
+---
+
+### Agregado
+- [Deposito] - Se agrega proceso de reposicion automatica.
 
 ## 2025.06.13
 ---
