@@ -120,7 +120,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Modificado
 
-- [Maestros] - Se modifica maestro de almacenes para que obligue a ingresar un ordenamiento para el global de preparación.
+- [Maestros] - Ticket #3990 - Se modifica maestro de almacenes para que obligue a ingresar un ordenamiento para el global de preparación.
 
 ## Pendiente de liberación (Funcionalidad)
 ---
