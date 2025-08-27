@@ -3,10 +3,8 @@ layout: default
 title: Registro de cambios
 navegacion:
   contenido:
-    - nombre: "Pendiente de liberación" (Desarrollo)
-      link: "registro-cambios#pendiente-de-liberación-desarrollo"
-    - nombre: "Pendiente de liberación" (Funcionalidad)
-      link: "registro-cambios#pendiente-de-liberación-funcionalidad"
+    - nombre: "Pendiente de liberación"
+      link: "registro-cambios#pendiente-de-liberación"
   versiones:
     - nombre: "2025.07.17"
       link: "registro-cambios#20250717"
