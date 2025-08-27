@@ -130,6 +130,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Maestros] - Ticket #3932 - Se corrige eliminación de empresas de transporte para que al momento de validar si tiene choferes o vehículos asignados no tenga en cuenta los que ya están dados de baja.
 - [Maestros] - Ticket #3932 - Se corrige listado de empresas de transporte para que solamente liste las seleccionadas.
 - [Maestros] - Ticket #3932 - Se corrige listado de documentaciones de empresas de transporte, choferes y vehículos para que muestre correctamente las documentaciones.
+- [Deposito] - Ticket #4021 - Se agregan indicadores de peso, volumen y valor declarado en la pantalla de preparación automática de pedidos.
 
 ## 2025.07.17
 ---
