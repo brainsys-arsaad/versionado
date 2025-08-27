@@ -4,9 +4,9 @@ title: Registro de cambios
 navegacion:
   contenido:
     - nombre: "Pendiente de liberación" (Desarrollo)
-      link: "registro-cambios#pendiente-de-liberación"
+      link: "registro-cambios#pendiente-de-liberación-desarrollo"
     - nombre: "Pendiente de liberación" (Funcionalidad)
-      link: "registro-cambios#pendiente-de-liberación"
+      link: "registro-cambios#pendiente-de-liberación-funcionalidad"
   versiones:
     - nombre: "2025.07.17"
       link: "registro-cambios#20250717"
@@ -117,12 +117,16 @@ En este archivo se documentaran todo los cambios notables liberados en cada vers
 
 El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/), y para el nombre de versión se utiliza la fecha de lazamiento de la misma en el formato **AAAA.MM.DD**.
 
-## Pendiente de liberación
+## Pendiente de liberación (Desarrollo)
 ---
 
 ### Modificado
 
 - [Maestros] - Se modifica maestro de almacenes para que obligue a ingresar un ordenamiento para el global de preparación.
+
+## Pendiente de liberación (Funcionalidad)
+---
+
 
 ## 2025.07.17
 ---
