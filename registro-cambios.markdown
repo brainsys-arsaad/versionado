@@ -130,7 +130,10 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Maestros] - Ticket #3932 - Se corrige eliminación de empresas de transporte para que al momento de validar si tiene choferes o vehículos asignados no tenga en cuenta los que ya están dados de baja.
 - [Maestros] - Ticket #3932 - Se corrige listado de empresas de transporte para que solamente liste las seleccionadas.
 - [Maestros] - Ticket #3932 - Se corrige listado de documentaciones de empresas de transporte, choferes y vehículos para que muestre correctamente las documentaciones.
+- [Maestros] - Ticket #3965 - Se agregan filtros de categorias de ubicacion, picking y reposicion en filtro de maestro de productos.
+- [Maestros] - Ticket #3993/#4103 - Se agrega en maestro de clientes plantilla de muelle y darsena por defecto para poder asignar automaticamente en importador excel y carga manual de pedidos.
 - [Deposito] - Ticket #4021 - Se agregan indicadores de peso, volumen y valor declarado en la pantalla de preparación automática de pedidos.
+- [Deposito] - Ticket #4053 - Se corrige verificador de stock en preparacion de pedidos para que permita mostrar el lote y la serie.
 
 ## 2025.07.17
 ---
