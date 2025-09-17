@@ -125,6 +125,10 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación (Funcionalidad)
 ---
 
+### Agregado
+
+- [Deposito] - Ticket #3872 - Se agrega modulo de cierre diario de ubicaciones.
+
 ### Modificado
 
 - [Maestros] - Ticket #3932 - Se corrige eliminación de empresas de transporte para que al momento de validar si tiene choferes o vehículos asignados no tenga en cuenta los que ya están dados de baja.
