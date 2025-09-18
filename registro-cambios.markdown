@@ -128,6 +128,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Agregado
 
 - [Deposito] - Ticket #3872 - Se agrega modulo de cierre diario de ubicaciones.
+- [Integraciones] - Ticket #4166 - Se agrega monitor de integraciones de importacion de motivos de devolucion.
+- [Integraciones] - Ticket #4166 - Se agrega monitor de integraciones de importacion de rubros.
 
 ### Modificado
 
