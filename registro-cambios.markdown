@@ -140,6 +140,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Maestros] - Ticket #3993/#4103 - Se agrega en maestro de clientes plantilla de muelle y darsena por defecto para poder asignar automaticamente en importador excel y carga manual de pedidos.
 - [Deposito] - Ticket #4021 - Se agregan indicadores de peso, volumen y valor declarado en la pantalla de preparación automática de pedidos.
 - [Deposito] - Ticket #4053 - Se corrige verificador de stock en preparacion de pedidos para que permita mostrar el lote y la serie.
+- [VITA] - Ticket #3376 - Se cambia nombre de sistema de liquidacion por VITA.
+- [VITA] - Ticket #3376 - Se cambia nombre de modulo tarifa por Cubo Tarifario.
+- [VITA] - Ticket #3376 - Se cambian labels para adaptarse a nuevos terminos (Cubo Tarifario, Vigencia Desde, Cantidad Base, Precio Base, Precio Excedente).
 
 ## 2025.07.17
 ---
