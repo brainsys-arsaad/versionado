@@ -138,6 +138,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Maestros] - Ticket #3932 - Se corrige listado de documentaciones de empresas de transporte, choferes y vehículos para que muestre correctamente las documentaciones.
 - [Maestros] - Ticket #3965 - Se agregan filtros de categorias de ubicacion, picking y reposicion en filtro de maestro de productos.
 - [Maestros] - Ticket #3993/#4103 - Se agrega en maestro de clientes plantilla de muelle y darsena por defecto para poder asignar automaticamente en importador excel y carga manual de pedidos.
+- [Maestros/Turnos] - Ticket #3942 - Se agrega en maestro de clientes la parametrizacion para indicar si solicita un vale de recepcion al momento de crear un turno de descarga. 
 - [Deposito] - Ticket #4021 - Se agregan indicadores de peso, volumen y valor declarado en la pantalla de preparación automática de pedidos.
 - [Deposito] - Ticket #4053 - Se corrige verificador de stock en preparacion de pedidos para que permita mostrar el lote y la serie.
 - [VITA] - Ticket #3376 - Se cambia nombre de sistema de liquidacion por VITA.
