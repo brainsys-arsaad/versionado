@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2025.09.29"
+      link: "registro-cambios#20250929"
     - nombre: "2025.07.17"
       link: "registro-cambios#20250717"
     - nombre: "2025.06.13"
@@ -115,14 +117,10 @@ En este archivo se documentaran todo los cambios notables liberados en cada vers
 
 El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/), y para el nombre de versión se utiliza la fecha de lazamiento de la misma en el formato **AAAA.MM.DD**.
 
-## Pendiente de liberación (Desarrollo)
+## Pendiente de liberación
 ---
 
-### Modificado
-
-- [Maestros] - Ticket #3990 - Se modifica maestro de almacenes para que obligue a ingresar un ordenamiento para el global de preparación.
-
-## Pendiente de liberación (Funcionalidad)
+## 2025.09.29
 ---
 
 ### Agregado
@@ -135,6 +133,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Modificado
 
+- [Maestros] - Ticket #3990 - Se modifica maestro de almacenes para que obligue a ingresar un ordenamiento para el global de preparación.
 - [Maestros] - Ticket #3932 - Se corrige eliminación de empresas de transporte para que al momento de validar si tiene choferes o vehículos asignados no tenga en cuenta los que ya están dados de baja.
 - [Maestros] - Ticket #3932 - Se corrige listado de empresas de transporte para que solamente liste las seleccionadas.
 - [Maestros] - Ticket #3932 - Se corrige listado de documentaciones de empresas de transporte, choferes y vehículos para que muestre correctamente las documentaciones.
