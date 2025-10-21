@@ -120,8 +120,22 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Agregado
+
+- [Maestros] - Ticket #4118 - Se agrega modulo de recorridos logísticos.
+- [Integraciones] - Ticket #4166 - Se agrega monitor de solicitudes de cambios de estado.
+- [Integraciones] - Ticket #4166 - Se agrega monitor de informes de solicitudes de cambios de estado.
+- [Integraciones] - Ticket #4166 - Se agrega monitor de informes de cambios de estado.
+
 ### Modificado
 
+- [Maestros] - Ticket #4118 - Se mueve el modulo de tipos de viaje al menú de Gestión Operaciones
+- [Maestros] - Ticket #4118 - Se renombra el modulo de Gestión Costo Transporte a Gestión Financiera
+- [Maestros] - Ticket #4118 - Se modifica el modulo de cubo tarifario (tarifa) para que tenga un campo que indique si el cubo tarifario es de Costo o de Venta.
+- [Maestros] - Ticket #4118 - Se modifica el modulo de cubo tarifario (tarifa) para que la solapa de Vigencias no se muestra si se esta creando el cubo tarifario
+- [Maestros] - Ticket #4118 - Se modifica el modulo de cubo tarifario (tarifa) para que al crear detalles seleccione el recorrido del maestro de recorridos logísticos.
+- [Maestros] - Ticket #4118 - Se agrega mensaje de advertencia en carga de detalles en cubo tarifario para que si no se indica una cantidad base en 0, advierta al usuario que la valorización no será tomada cuando el valor sea menor a la cantidad base.
+- [Maestros] - Ticket #4118 - Se modifica dentro del cubo tarifario el nombre de la acción Copiar Recorridos por Actualizar Recorridos
 - [Deposito] - Ticket #3806 - Se refactoriza visualizacion de recepciones en el modulo de recepciones para poder mostrar las cantidades recibidas, pendientes y anuladas.
 
 ## 2025.09.29
