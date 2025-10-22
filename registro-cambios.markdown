@@ -138,6 +138,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Maestros] - Ticket #4118 - Se modifica dentro del cubo tarifario el nombre de la acción Copiar Recorridos por Actualizar Recorridos
 - [Deposito] - Ticket #3806 - Se refactoriza visualizacion de recepciones en el modulo de recepciones para poder mostrar las cantidades recibidas, pendientes y anuladas.
 - [Deposito] - Ticket #4260 - Se corrige bug en alta el pedido ya que si el centro emisor no tiene los 0 adelante no cargaba las unidades y los tiems en la cabecera.
+- [Distribucion] - Ticket #4072 - Se corrige listado excel de liquidacion de viajes para que muestre los valores de medias de los comprobantes y no los del viaje.
 
 ## 2025.09.29
 ---
