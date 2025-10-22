@@ -137,6 +137,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Maestros] - Ticket #4118 - Se agrega mensaje de advertencia en carga de detalles en cubo tarifario para que si no se indica una cantidad base en 0, advierta al usuario que la valorización no será tomada cuando el valor sea menor a la cantidad base.
 - [Maestros] - Ticket #4118 - Se modifica dentro del cubo tarifario el nombre de la acción Copiar Recorridos por Actualizar Recorridos
 - [Deposito] - Ticket #3806 - Se refactoriza visualizacion de recepciones en el modulo de recepciones para poder mostrar las cantidades recibidas, pendientes y anuladas.
+- [Deposito] - Ticket #4260 - Se corrige bug en alta el pedido ya que si el centro emisor no tiene los 0 adelante no cargaba las unidades y los tiems en la cabecera.
 
 ## 2025.09.29
 ---
