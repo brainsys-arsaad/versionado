@@ -123,6 +123,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Agregado
 
 - [Maestros] - Ticket #4118 - Se agrega modulo de recorridos logísticos.
+- [Maestros] - Ticket #3804 - Se agrega migrador excel de proveedores.
+- [Maestros] - Ticket #3925 - Se agregar filtro de rubro y subrubro en modulo de productos.
 - [Integraciones] - Ticket #4166 - Se agrega monitor de solicitudes de cambios de estado.
 - [Integraciones] - Ticket #4166 - Se agrega monitor de informes de solicitudes de cambios de estado.
 - [Integraciones] - Ticket #4166 - Se agrega monitor de informes de cambios de estado.
