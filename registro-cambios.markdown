@@ -142,6 +142,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Deposito] - Ticket #4260 - Se corrige bug en alta el pedido ya que si el centro emisor no tiene los 0 adelante no cargaba las unidades y los tiems en la cabecera.
 - [Distribucion] - Ticket #4072 - Se corrige listado excel de liquidacion de viajes para que muestre los valores de medias de los comprobantes y no los del viaje.
 - [Distribucion] - Ticket #4220 - Se corrige accion de resolucion y requerir resolucion de comprobante para que guarde en la etapa el usuario que realizo la acción.
+- [Distribucion] - Ticket #865 - Se modifica proceso de devolución para que si esta devolviendo al wms y existe el pedido preparador que actualice las unidades devueltas.
 
 ## 2025.09.29
 ---
