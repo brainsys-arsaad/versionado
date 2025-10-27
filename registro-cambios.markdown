@@ -138,6 +138,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Maestros] - Ticket #4118 - Se modifica el modulo de cubo tarifario (tarifa) para que al crear detalles seleccione el recorrido del maestro de recorridos logísticos.
 - [Maestros] - Ticket #4118 - Se agrega mensaje de advertencia en carga de detalles en cubo tarifario para que si no se indica una cantidad base en 0, advierta al usuario que la valorización no será tomada cuando el valor sea menor a la cantidad base.
 - [Maestros] - Ticket #4118 - Se modifica dentro del cubo tarifario el nombre de la acción Copiar Recorridos por Actualizar Recorridos
+- [Maestros] - Ticket #4040 - Se agrega validación en eliminación de sectores para que no permita eliminar con tipos de viajes asignados.
+- [Maestros] - Ticket #4040 - Se modifica eliminación de tipos de viaje para que elimine también la relación con sectores.
 - [Deposito] - Ticket #3806 - Se refactoriza visualizacion de recepciones en el modulo de recepciones para poder mostrar las cantidades recibidas, pendientes y anuladas.
 - [Deposito] - Ticket #4260 - Se corrige bug en alta el pedido ya que si el centro emisor no tiene los 0 adelante no cargaba las unidades y los tiems en la cabecera.
 - [Distribucion] - Ticket #4072 - Se corrige listado excel de liquidacion de viajes para que muestre los valores de medias de los comprobantes y no los del viaje.
