@@ -148,6 +148,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Deposito] - Ticket #4392 - Se agrega posibilidad de asignar un vehiculo al momento de realizar la lista de envio.
 - [Deposito] - Ticket #4358 - Se modifica reporte de informe de pedido detallado para que el codigo de producto este separado de la descripcion.
 - [Deposito] - Ticket #4329 - Se agrega filtro de darsena en modulo de pedidos.
+- [Deposito] - Ticket #4329 - Se corrige consulta de stock/inventario para que muestren bien la cantidad de ubicaciones.
+- [Deposito] - Ticket #43911 - Se corrige carga de recepciones para que indique detalladamente que linea de producto tiene inconsistencias.
 - [Distribucion] - Ticket #4072 - Se corrige listado excel de liquidacion de viajes para que muestre los valores de medias de los comprobantes y no los del viaje.
 - [Distribucion] - Ticket #4220 - Se corrige accion de resolucion y requerir resolucion de comprobante para que guarde en la etapa el usuario que realizo la acción.
 - [Distribucion] - Ticket #865 - Se modifica proceso de devolución para que si esta devolviendo al wms y existe el pedido preparador que actualice las unidades devueltas.
