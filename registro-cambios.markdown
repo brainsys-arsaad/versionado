@@ -153,6 +153,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Agregado
 
 - [Deposito] - Ticket #3872 - Se agrega modulo de cierre diario de ubicaciones.
+- [Deposito] - Ticket #4228 - Se agrega modulo de solicitud de cambio de estado.
 - [Integraciones] - Ticket #4166 - Se agrega monitor de integraciones de tipos de recepcion.
 - [Integraciones] - Ticket #4166 - Se agrega monitor de integraciones de importacion de motivos de devolucion.
 - [Integraciones] - Ticket #4166 - Se agrega monitor de integraciones de importacion de rubros.
@@ -169,6 +170,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Maestros/Turnos] - Ticket #3942 - Se agrega en maestro de clientes la parametrizacion para indicar si solicita un vale de recepcion al momento de crear un turno de descarga. 
 - [Deposito] - Ticket #4021 - Se agregan indicadores de peso, volumen y valor declarado en la pantalla de preparación automática de pedidos.
 - [Deposito] - Ticket #4053 - Se corrige verificador de stock en preparacion de pedidos para que permita mostrar el lote y la serie.
+- [Deposito] - Ticket #4392 - Se agrega posibilidad de asignar un vehiculo al momento de realizar la lista de envio.
+- [Deposito] - Ticket #4358 - Se modifica reporte de informe de pedido detallado para que el codigo de producto este separado de la descripcion.
+- [Deposito] - Ticket #4329 - Se agrega filtro de darsena en modulo de pedidos.
 - [VITA] - Ticket #3376 - Se cambia nombre de sistema de liquidacion por VITA.
 - [VITA] - Ticket #3376 - Se cambia nombre de modulo tarifa por Cubo Tarifario.
 - [VITA] - Ticket #3376 - Se cambian labels para adaptarse a nuevos terminos (Cubo Tarifario, Vigencia Desde, Cantidad Base, Precio Base, Precio Excedente).
