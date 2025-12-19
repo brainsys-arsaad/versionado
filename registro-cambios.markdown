@@ -125,6 +125,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Maestros] - Ticket #4118 - Se agrega modulo de recorridos logísticos.
 - [Maestros] - Ticket #3804 - Se agrega migrador excel de proveedores.
 - [Maestros] - Ticket #3925 - Se agregar filtro de rubro y subrubro en modulo de productos.
+- [Deposito] - Ticket #4228 - Se agrega modulo de solicitud de cambio de estado.
+- [Deposito] - Ticket #3872 - Se agrega modulo de cruce de stock.
 - [Integraciones] - Ticket #4166 - Se agrega monitor de solicitudes de cambios de estado.
 - [Integraciones] - Ticket #4166 - Se agrega monitor de informes de solicitudes de cambios de estado.
 - [Integraciones] - Ticket #4166 - Se agrega monitor de informes de cambios de estado.
@@ -143,6 +145,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Deposito] - Ticket #3806 - Se refactoriza visualizacion de recepciones en el modulo de recepciones para poder mostrar las cantidades recibidas, pendientes y anuladas.
 - [Deposito] - Ticket #4260 - Se corrige bug en alta el pedido ya que si el centro emisor no tiene los 0 adelante no cargaba las unidades y los tiems en la cabecera.
 - [Deposito] - Ticket #4259 - Se modifica modulo de recepción para poder cambiar de forma masiva las unidades de medida en la que se recibirán los productos.
+- [Deposito] - Ticket #4392 - Se agrega posibilidad de asignar un vehiculo al momento de realizar la lista de envio.
+- [Deposito] - Ticket #4358 - Se modifica reporte de informe de pedido detallado para que el codigo de producto este separado de la descripcion.
+- [Deposito] - Ticket #4329 - Se agrega filtro de darsena en modulo de pedidos.
 - [Distribucion] - Ticket #4072 - Se corrige listado excel de liquidacion de viajes para que muestre los valores de medias de los comprobantes y no los del viaje.
 - [Distribucion] - Ticket #4220 - Se corrige accion de resolucion y requerir resolucion de comprobante para que guarde en la etapa el usuario que realizo la acción.
 - [Distribucion] - Ticket #865 - Se modifica proceso de devolución para que si esta devolviendo al wms y existe el pedido preparador que actualice las unidades devueltas.
@@ -152,8 +157,6 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Agregado
 
-- [Deposito] - Ticket #3872 - Se agrega modulo de cierre diario de ubicaciones.
-- [Deposito] - Ticket #4228 - Se agrega modulo de solicitud de cambio de estado.
 - [Integraciones] - Ticket #4166 - Se agrega monitor de integraciones de tipos de recepcion.
 - [Integraciones] - Ticket #4166 - Se agrega monitor de integraciones de importacion de motivos de devolucion.
 - [Integraciones] - Ticket #4166 - Se agrega monitor de integraciones de importacion de rubros.
@@ -170,9 +173,6 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Maestros/Turnos] - Ticket #3942 - Se agrega en maestro de clientes la parametrizacion para indicar si solicita un vale de recepcion al momento de crear un turno de descarga. 
 - [Deposito] - Ticket #4021 - Se agregan indicadores de peso, volumen y valor declarado en la pantalla de preparación automática de pedidos.
 - [Deposito] - Ticket #4053 - Se corrige verificador de stock en preparacion de pedidos para que permita mostrar el lote y la serie.
-- [Deposito] - Ticket #4392 - Se agrega posibilidad de asignar un vehiculo al momento de realizar la lista de envio.
-- [Deposito] - Ticket #4358 - Se modifica reporte de informe de pedido detallado para que el codigo de producto este separado de la descripcion.
-- [Deposito] - Ticket #4329 - Se agrega filtro de darsena en modulo de pedidos.
 - [VITA] - Ticket #3376 - Se cambia nombre de sistema de liquidacion por VITA.
 - [VITA] - Ticket #3376 - Se cambia nombre de modulo tarifa por Cubo Tarifario.
 - [VITA] - Ticket #3376 - Se cambian labels para adaptarse a nuevos terminos (Cubo Tarifario, Vigencia Desde, Cantidad Base, Precio Base, Precio Excedente).
