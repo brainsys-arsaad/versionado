@@ -130,7 +130,10 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Integraciones] - Ticket #4166 - Se agrega monitor de solicitudes de cambios de estado.
 - [Integraciones] - Ticket #4166 - Se agrega monitor de informes de solicitudes de cambios de estado.
 - [Integraciones] - Ticket #4166 - Se agrega monitor de informes de cambios de estado.
-
+- [General] - Seguridad - OWASP - 4. FileUpload sin validar Content-Type real
+- [General] - Seguridad - OWASP - 9. Cookies sin HttpOnly y Secure
+- [General] - Seguridad - OWASP - 10. Session timeout muy largo.
+ 
 ### Modificado
 
 - [Maestros] - Ticket #4118 - Se mueve el modulo de tipos de viaje al menú de Gestión Operaciones
@@ -150,9 +153,11 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Deposito] - Ticket #4329 - Se agrega filtro de darsena en modulo de pedidos.
 - [Deposito] - Ticket #4329 - Se corrige consulta de stock/inventario para que muestren bien la cantidad de ubicaciones.
 - [Deposito] - Ticket #43911 - Se corrige carga de recepciones para que indique detalladamente que linea de producto tiene inconsistencias.
+- [Deposito] - Ticket #3872 - Se adapta modulo de Stock para que permita consultar por fecha.
 - [Distribucion] - Ticket #4072 - Se corrige listado excel de liquidacion de viajes para que muestre los valores de medias de los comprobantes y no los del viaje.
 - [Distribucion] - Ticket #4220 - Se corrige accion de resolucion y requerir resolucion de comprobante para que guarde en la etapa el usuario que realizo la acción.
 - [Distribucion] - Ticket #865 - Se modifica proceso de devolución para que si esta devolviendo al wms y existe el pedido preparador que actualice las unidades devueltas.
+- [General] - Se actualizan todos los proyectos para que trabaje con el ultimo framework 
 
 ## 2025.09.29
 ---
