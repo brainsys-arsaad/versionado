@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2025.12.26"
+      link: "registro-cambios#20251226"
     - nombre: "2025.09.29"
       link: "registro-cambios#20250929"
     - nombre: "2025.07.17"
@@ -118,6 +120,9 @@ En este archivo se documentaran todo los cambios notables liberados en cada vers
 El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/), y para el nombre de versión se utiliza la fecha de lazamiento de la misma en el formato **AAAA.MM.DD**.
 
 ## Pendiente de liberación
+---
+
+## 2025.12.26
 ---
 
 ### Agregado
