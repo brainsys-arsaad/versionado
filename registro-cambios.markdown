@@ -122,6 +122,16 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Agregado
+
+- [Deposito] - Ticket #4127 - Se agrega la posibilidad de relacionar series de mas de 22 caracteres. Se ingresan y preparan por RF y el modulo web del WMS permite visualizar el código de serie recibido y preparado de mas de 15 caracteres.
+- [Liquidación] - Ticket #4347 - Se agrega la posibilidad de ver el detalle de los comprobantes y retiros de los viajes de una liquidación.
+- [Liquidación] - Ticket #4347 - Se agrega impresión y listado Excel de liquidaciones para poder mostrar el detalle de los comprobantes y retiros de los viajes de una liquidación.
+
+### Modificado
+
+- [Distribucion] - Ticket #4363 - Se modifica reporte de liquidación de viajes para que muestre el remitente.
+
 ## 2025.12.26
 ---
 
