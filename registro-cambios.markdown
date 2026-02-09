@@ -125,6 +125,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Agregado
 
 - [Deposito] - Ticket #4127 - Se agrega la posibilidad de relacionar series de mas de 22 caracteres. Se ingresan y preparan por RF y el modulo web del WMS permite visualizar el código de serie recibido y preparado de mas de 15 caracteres.
+- [Deposito] - Ticket #3257 - Se agrega modulo de devolucion de bultos.
 - [Liquidación] - Ticket #4347 - Se agrega la posibilidad de ver el detalle de los comprobantes y retiros de los viajes de una liquidación.
 - [Liquidación] - Ticket #4347 - Se agrega impresión y listado Excel de liquidaciones para poder mostrar el detalle de los comprobantes y retiros de los viajes de una liquidación.
 
