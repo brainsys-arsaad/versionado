@@ -135,8 +135,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Modificado
 
-- [Maestro] - Ticket #3376 - Se modifican modulos de nomenclador, tarifas y reglas de valorizacion para que trabajen con el nuevo mastro de recorridos logisticos.
+- [Maestro] - Ticket #3376 - Se modifican modulos de nomenclador, tarifas y reglas de valorizacion para que se adapten a los nuevos recorridos logisticos.
 - [Deposito] - Ticket #4694 - Se modifica modulo de stock para poder consolidar por producto.
+- [Distribucion] - Ticket #3376 - Se adaptan modulos de comprobantes y viaje para que se adapten a los nuevos recorridos logisticos.
 - [Distribucion] - Ticket #4363 - Se modifica reporte de liquidación de viajes para que muestre el remitente.
 
 ## 2025.12.26
