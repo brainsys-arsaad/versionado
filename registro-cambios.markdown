@@ -124,8 +124,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Agregado
 
-- [Maestro] - Ticket #3376 - Se agrega modulo de recorridos logisticos.
-- [Maestro] - Ticket #3376 - Se agrega modulo de regla de facturacion directa de comprobante.
+- [Maestro] - Ticket #3376 - Se agrega modulo de recorridos logísticos.
+- [Maestro] - Ticket #3376 - Se agrega modulo de regla de facturación directa de comprobante.
 - [Deposito] - Ticket #4127 - Se agrega la posibilidad de relacionar series de mas de 22 caracteres. Se ingresan y preparan por RF y el modulo web del WMS permite visualizar el código de serie recibido y preparado de mas de 15 caracteres.
 - [Deposito] - Ticket #3257 - Se agrega modulo de devolución de bultos.
 - [Deposito] - Ticket #4664 - Se agrega posibilidad del uso de escanear en el modulo de pedidos.
@@ -135,9 +135,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Modificado
 
-- [Maestro] - Ticket #3376 - Se modifican modulos de nomenclador, tarifas y reglas de valorizacion para que se adapten a los nuevos recorridos logisticos.
+- [Maestro] - Ticket #3376 - Se modifican módulos de nomenclador, tarifas y reglas de valorización para que se adapten a los nuevos recorridos logísticos.
 - [Deposito] - Ticket #4694 - Se modifica modulo de stock para poder consolidar por producto.
-- [Distribucion] - Ticket #3376 - Se adaptan modulos de comprobantes y viaje para que se adapten a los nuevos recorridos logisticos.
+- [Distribucion] - Ticket #3376 - Se adaptan módulos de comprobantes y viaje para que se adapten a los nuevos recorridos logísticos.
 - [Distribucion] - Ticket #4363 - Se modifica reporte de liquidación de viajes para que muestre el remitente.
 
 ## 2025.12.26
