@@ -126,7 +126,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 ### Agregado
 
-- [General] - Ticket #3376 - Se rediseña el login y los menús de los distintos sistemas.
+- [General] - Ticket #4514 - Se rediseña el login y los menús de los distintos sistemas.
 
 ## 2026.02.10
 ---
