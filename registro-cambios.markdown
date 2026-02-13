@@ -124,6 +124,10 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Agregado
+
+- [General] - Ticket #3376 - Se rediseña el login y los menús de los distintos sistemas.
+
 ## 2026.02.10
 ---
 
