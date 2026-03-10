@@ -137,6 +137,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Maestro] - Ticket #3376 - Se agrega modulo de regla de facturación directa de comprobante.
 - [Deposito] - Ticket #4127 - Se agrega la posibilidad de relacionar series de mas de 22 caracteres. Se ingresan y preparan por RF y el modulo web del WMS permite visualizar el código de serie recibido y preparado de mas de 15 caracteres.
 - [Deposito] - Ticket #3257 - Se agrega modulo de devolución de bultos.
+- [Deposito] - Ticket #4745 - Se agrega modulo de transferencia de bultos.
 - [Deposito] - Ticket #4664 - Se agrega posibilidad del uso de escanear en el modulo de pedidos.
 - [Deposito] - Ticket #4694 - Se agregar reporte de stock consolidad en modulo de stock.
 - [Liquidación] - Ticket #4347 - Se agrega la posibilidad de ver el detalle de los comprobantes y retiros de los viajes de una liquidación.
