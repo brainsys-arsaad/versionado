@@ -129,6 +129,10 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [General] - Ticket #4514 - Se rediseña el login y los menús de los distintos sistemas.
 - [General] - Ticket #4514 - Se rediseñan todas las pantallas del Sistema de Maestros.
 
+### Modificado
+- [Deposito] - Ticket #5554 - Se adapto proceso de preparacion para validar que las unidades a preparar sean multiplo de las unidades de venta del producto.
+- [Deposito] - Ticket #5554 - Se adapto proceso de preparacion para que trabaje con las unidades de medida del conjunto de la regla de preparacion.
+
 ## 2026.02.10
 ---
 
