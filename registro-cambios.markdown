@@ -128,6 +128,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 - [General] - Ticket #4514 - Se rediseña el login y los menús de los distintos sistemas.
 - [General] - Ticket #4514 - Se rediseñan todas las pantallas del Sistema de Maestros.
+- [Vita] - Ticket #3376 - Se agregan modulos de ordenes de servicio y prefacturas.
 
 ### Modificado
 - [Deposito] - Ticket #5554 - Se adapto proceso de preparacion para validar que las unidades a preparar sean multiplo de las unidades de venta del producto.
