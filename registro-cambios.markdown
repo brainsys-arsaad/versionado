@@ -133,6 +133,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ### Modificado
 - [Deposito] - Ticket #5554 - Se adapto proceso de preparacion para validar que las unidades a preparar sean multiplo de las unidades de venta del producto.
 - [Deposito] - Ticket #5554 - Se adapto proceso de preparacion para que trabaje con las unidades de medida del conjunto de la regla de preparacion.
+- [Deposito] - Se corrige proceso de preparacion para que no calcule la disponibilidad con el stock sino que use el fisico, y en caso de que el almacen trabaje con preparacion en transito que use el fisico mas el transito.
 
 ## 2026.02.10
 ---
