@@ -128,13 +128,17 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 
 - [General] - Ticket #4514 - Se rediseña el login y los menús de los distintos sistemas.
 - [General] - Ticket #4514 - Se rediseñan todas las pantallas del Sistema de Maestros.
-- [Vita] - Ticket #3376 - Se agregan modulos de ordenes de servicio y prefacturas.
+- [Vita] - Ticket #3376 - Se agregan módulos de ordenes de servicio y prefacturas.
 
 ### Modificado
-- [Deposito] - Ticket #5554 - Se adapto proceso de preparacion para validar que las unidades a preparar sean multiplo de las unidades de venta del producto.
-- [Deposito] - Ticket #5554 - Se adapto proceso de preparacion para que trabaje con las unidades de medida del conjunto de la regla de preparacion.
-- [Deposito] - Se corrige proceso de preparacion para que no calcule la disponibilidad con el stock sino que use el fisico, y en caso de que el almacen trabaje con preparacion en transito que use el fisico mas el transito.
-- [Distribucion] - Se modifica modulo de viajes para poder asignarle contenedores.
+- [Deposito] - Ticket #5554 - Se adapto proceso de preparación para validar que las unidades a preparar sean múltiplo de las unidades de venta del producto.
+- [Deposito] - Ticket #5554 - Se adapto proceso de preparación para que trabaje con las unidades de medida del conjunto de la regla de preparación.
+- [Deposito] - Se corrige proceso de preparación para que no calcule la disponibilidad con el stock sino que use el físico, y en caso de que el almacén trabaje con preparación en transito que use el físico mas el transito.
+- [Deposito] - Se corrige proceso de recepción para validar que no se puedan recibir unidades que no sean múltiplos de la unidad de venta del producto.
+- [Deposito] - Se corrige proceso de recepción para guardar en el maestro de ubicaciones la unidad de medida en la que recibió el producto.
+- [Deposito] - Se corrige proceso de recepción en posiciones permanentes para que no valide dimensiones y para que valide correctamente la cantidad máxima que permite la posición.
+- [Deposito] - Se corrige proceso de recepción para que la visualización de las unidades a recibir indique bien las unidades de venta.
+- [Distribución] - Se modifica modulo de viajes para poder asignarle contenedores.
 
 ## 2026.02.10
 ---
