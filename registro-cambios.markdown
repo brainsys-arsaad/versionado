@@ -139,6 +139,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Deposito] - Se corrige proceso de recepción en posiciones permanentes para que no valide dimensiones y para que valide correctamente la cantidad máxima que permite la posición.
 - [Deposito] - Se corrige proceso de recepción para que la visualización de las unidades a recibir indique bien las unidades de venta.
 - [Distribución] - Se modifica modulo de viajes para poder asignarle contenedores.
+- [Integraciones] - Se adapta importación de pedidos estándar para que permita aperturar los combos en insumos.
 
 ## 2026.02.10
 ---
