@@ -138,6 +138,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Deposito] - Se corrige proceso de recepción para guardar en el maestro de ubicaciones la unidad de medida en la que recibió el producto.
 - [Deposito] - Se corrige proceso de recepción en posiciones permanentes para que no valide dimensiones y para que valide correctamente la cantidad máxima que permite la posición.
 - [Deposito] - Se corrige proceso de recepción para que la visualización de las unidades a recibir indique bien las unidades de venta.
+- [Deposito] - Se adaptan reportes excel y de impresión de informes de recepción para que muestren el motivo de devolución.
 - [Deposito] - Se modifica proceso de lista de envió para que al despacharla informe a SAADIS o a las bases de distribución RECHRCA y RECHRDE.
 - [Distribución] - Se modifica modulo de viajes para poder asignarle contenedores.
 - [Integraciones] - Se adapta importación de pedidos estándar para que permita aperturar los combos en insumos.
