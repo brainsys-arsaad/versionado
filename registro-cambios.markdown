@@ -126,6 +126,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Agregado
+- [Deposito] - Se agrega tablero de inicio con información del deposito.
+
 ### Modificado
 - [Deposito] - Se rediseñaron pantallas de recepción, pedidos, preparación, confirmación de almacenaje, confirmación de recogida, consultas de recepciones y consultas de pedidos.
 
