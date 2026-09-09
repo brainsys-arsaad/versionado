@@ -130,7 +130,13 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Deposito] - Se agrega tablero de inicio con información del deposito.
 
 ### Modificado
+- [Maestro] - Se modifico carga de productos para que permita cargar los datos copiando desde otro producto. 
 - [Deposito] - Se rediseñaron pantallas de recepción, pedidos, preparación, confirmación de almacenaje, confirmación de recogida, consultas de recepciones y consultas de pedidos.
+- [Deposito] - Se modifico reporte Excel de Kardex para que muestre datos de proveedor, cliente, destinatario y razon social.
+- [Deposito] - Se modificaron reportes Excel de informes de pedidos para que muestren la fecha de proceso de preparacion.
+- [Deposito] - Se corrigió proceso de preparación para que si una linea no permite preparar por no ser multiplo que no la intente procesar y no frene el resto de la preparacion. 
+- [Deposito] - Se corrigió proceso de devolución de bultos para que no deje informacion en UBCREC.
+	Implementado en test.
 
 ## 2026.08.20
 ---
