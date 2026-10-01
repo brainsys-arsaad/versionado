@@ -126,18 +126,28 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
-### Agregado
-- [Deposito] - Se agrega tablero de inicio con información del deposito.
-
-### Modificado
-- [Maestro] - Se modifico carga de productos para que permita cargar los datos copiando desde otro producto. 
+### Mejoras
+- [Maestro] - Se genera la funcionalidad que permite cargar nuevos productos copiando caracteristicas desde otro producto.
+- [Deposito] - Se agrega tablero de inicio con información del deposito y operaciones en linea.
 - [Deposito] - Se rediseñaron pantallas de recepción, pedidos, preparación, confirmación de almacenaje, confirmación de recogida, consultas de recepciones y consultas de pedidos.
 - [Deposito] - Se modifico reporte Excel de Kardex para que muestre datos de proveedor, cliente, destinatario y razon social.
 - [Deposito] - Se modificaron reportes Excel de informes de pedidos para que muestren la fecha de proceso de preparacion.
-- [Deposito] - Se corrigió proceso de preparación para que si una linea no permite preparar por no ser multiplo que no la intente procesar y no frene el resto de la preparacion. 
-- [Deposito] - Se corrigió proceso de devolución de bultos para que no deje informacion en UBCREC.
-	Implementado en test.
+- [Deposito] - Se agrego nueva consulta de cierre de conteos de inventarios.
+- [Deposito] - Se modifica modulo de impresion de rotulos para que con un tilde se indique si se desea imprimir el producto de la permanente.
+- [Deposito] - Se mejoro la visualizacion de los productos contados para distinguir con color amarillo lo que no se conto y en color verde lo que ya se conto.
 
+
+### Bugs
+- [Maestro] - Se corrige filtro de producto en maestro de lotes para que permita filtrar por el código de producto.
+- [Deposito] - Se corrigió proceso de preparación para que si una linea no permite preparar por no ser multiplo que no la intente procesar y no frene el resto de la preparacion. 
+- [Deposito] - Se corrigió proceso de devolución de bultos para que no deje información en UBCREC ni UBCPRE.
+- [Deposito] - Al momento de iniciar un inventario, si hay algunas posiciones que tienen pendientes de confirmación que no bloquee el inicio y que muestre un informe con las posiciones que se pudieron iniciar y cuales no se pudieron iniciar.
+- [Deposito] - En inventario se corrigió reporte de cierre por nivel para que agrupe una hoja por nivel y no por posición completa.
+- [Deposito] - Se corrige ajuste en permanente ya que si estaba libre no permitía ingresar el estado de producto y por ende no te dejaba realizar el ajuste.
+- [Deposito] - Se corrigió inicio de inventario pata que en las posiciones multiproductos las bloquee completas.
+- [Deposito] - Se corrige proceso de cierre de inventario para que guarde el codigo del tipo de ajuste y no el id.
+- [Deposito] - Se modifican grilla y reportes de cierre de inventario para que muestren el stock inicial y el ajuste correspondiente.
+  
 ## 2026.08.20
 ---
 
