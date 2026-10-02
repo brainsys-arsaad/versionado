@@ -134,7 +134,7 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Deposito] - Se modificaron reportes Excel de informes de pedidos para que muestren la fecha de proceso de preparacion.
 - [Deposito] - Se agrego nueva consulta de cierre de conteos de inventarios.
 - [Deposito] - Se modifica modulo de impresion de rotulos para que con un tilde se indique si se desea imprimir el producto de la permanente.
-- [Deposito] - Se mejoro la visualizacion de los productos contados para distinguir con color amarillo lo que no se conto y en color verde lo que ya se conto.
+- [Deposito] - En el modulo de inventario se mejoro la visualizacion de los productos contados para distinguir con color amarillo lo que no se conto y en color verde lo que ya se conto.
 
 
 ### Bugs
