@@ -135,6 +135,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Deposito] - Se agrego nueva consulta de cierre de conteos de inventarios.
 - [Deposito] - Se modifica modulo de impresion de rotulos para que con un tilde se indique si se desea imprimir el producto de la permanente.
 - [Deposito] - En el modulo de inventario se mejoro la visualizacion de los productos contados para distinguir con color amarillo lo que no se conto y en color verde lo que ya se conto.
+- [Deposito] - Se genera modulo de orden de compra
+- [Deposito] - Se agregan filtros de composición en modulo de pedidos.
+- [Deposito] - Se agrega filtro de zona de picking en modulo de confirmación de recogida.
 
 
 ### Bugs
@@ -147,7 +150,8 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 - [Deposito] - Se corrigió inicio de inventario pata que en las posiciones multiproductos las bloquee completas.
 - [Deposito] - Se corrige proceso de cierre de inventario para que guarde el codigo del tipo de ajuste y no el id.
 - [Deposito] - Se modifican grilla y reportes de cierre de inventario para que muestren el stock inicial y el ajuste correspondiente.
-  
+- [Deposito] - Se corrige modulo de transferencias para que si el tipo de transferencias indica que realiza movimiento de mercadería y la ubicación solicita confirmación que se genere el pendiente de confirmacion.
+
 ## 2026.08.20
 ---
 
