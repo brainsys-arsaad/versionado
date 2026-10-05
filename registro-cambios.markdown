@@ -6,6 +6,8 @@ navegacion:
     - nombre: "Pendiente de liberación"
       link: "registro-cambios#pendiente-de-liberación"
   versiones:
+    - nombre: "2026.10.05"
+      link: "registro-cambios#20261005"
     - nombre: "2026.08.20"
       link: "registro-cambios#20260820"
     - nombre: "2026.02.10"
@@ -126,9 +128,12 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+## 2026.10.05
+---
+
 ### Mejoras
 - [Maestro] - Se genera la funcionalidad que permite cargar nuevos productos copiando caracteristicas desde otro producto.
-- [Deposito] - Se agrega tablero de inicio con información del deposito y operaciones en linea.
+- [Deposito] - Se agrega tablero de inicio con información del deposito y operaciones en línea.
 - [Deposito] - Se rediseñaron pantallas de recepción, pedidos, preparación, confirmación de almacenaje, confirmación de recogida, consultas de recepciones y consultas de pedidos.
 - [Deposito] - Se modifico reporte Excel de Kardex para que muestre datos de proveedor, cliente, destinatario y razon social.
 - [Deposito] - Se modificaron reportes Excel de informes de pedidos para que muestren la fecha de proceso de preparacion.
