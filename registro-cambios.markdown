@@ -128,6 +128,9 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ## Pendiente de liberación
 ---
 
+### Mejoras
+- [Deposito] - Se agrega modulo "Analisis de Consumo".
+
 ## 2026.10.05
 ---
 
