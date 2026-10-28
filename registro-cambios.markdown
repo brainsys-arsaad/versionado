@@ -129,7 +129,25 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ---
 
 ### Mejoras
-- [Deposito] - Se agrega modulo "Analisis de Consumo".
+		- [Deposito] - Se agrega modulo "Analisis de Consumo".
+		- [Deposito] - Se agrega la posibilidad de imprimir las reposiciones al momento de realizar reposiciones manuales.
+		- [Deposito] - Se agrega la posibilidad de migrar conteo de inventario desde Excel.
+		- [Deposito] - Se mejoran modulos de confirmaciones de almacenaje y recogida para que pinten las filas de acuerdo a si estan pendientes, confirmadas
+			o si tienen salteos por la radio frecuencia.
+		- [Deposito] - En consulta de pedidos (informe de pedidos) se agrego el filtro para poder consultar los pedidos devueltos (por devolucion de bultos) y los 
+			pedidos cancelados.
+		- [Deposito] - Se modifican modulos de transferencias por unidades y por bultos para que al finalizar las transferencias impriman el reporte correspondiente.
+		
+	### Bugs
+- [Maestro] - Se corrige control de fecha para que no cuelgue la aplicacion al querer tipear la fecha.
+- [Deposito] - Se modifica alta de pedidos para que autocomplete el centro emisor hasta 4 ceros. Antes al no autocompletar no validaba bien la existencia del pedido en la bolsa de pedidos pendientes dando un error de SQL (PK).
+- [Deposito] - Se corrigen reportes de reposicion para que si no tienen confirmaciones no impriman el codigo de barra de la confirmacion.
+- [Deposito] - Se agregan tipos de operación de bultos que utiliza la RF para poder visualizar la descripción de la operación del bulto en la consulta de bultos del WMS.
+- [Deposito] - Se corrige el uso de las intercalaciones en las consultas entre deposito y maestros para que sean mas performantes.
+- [Deposito] - [Transacciones] - Se mejora el rendimiento de la consulta de transacciones. Al superar los 300.000 registros, el sistema le indica al usuario que refine su búsqueda, ya que la cantidad de registros supera lo tolerado por el motor de base de datos. Ademas en el listado Excel de transacciones, el archivo se divide en hojas de 100.000 registros.
+- [Deposito] - [Informe Recepciones] - Se optimizan las consultas del tablero de informes de recepción. Se optimiza la descarga de los listados Excel.			
+- [Deposito] - [Informe Pedido] - Se optimizan las consultas de informes de pedido. Se optimiza la generación de los listados Excel (Informes de Pedido, Global, Globales por Zona, Consolidado de Productos, Detallado, Hojas de Trabajo y Resumen Final) para que soporten mayores volúmenes sin colgar el navegador. En el listado Excel de Hojas de Trabajo, al superar los 300.000 registros, el sistema le indica al usuario que acote los pedidos seleccionados para evitar que la memoria del navegador colapse. Se corrige el error de los listados Excel Global y Globales por Zona al calcular la descripción de preparación (paletas, cajas y unidades) que provocaba que el sistema deje de funcionar correctamente.
+- [Integraciones] - Se corrige importador de Excel para que al momento de importar vales de devolucion te permita ingresar el motivo de devolucion.
 
 ## 2026.10.05
 ---
