@@ -129,16 +129,14 @@ El formato esta basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.
 ---
 
 ### Mejoras
-		- [Deposito] - Se agrega modulo "Analisis de Consumo".
-		- [Deposito] - Se agrega la posibilidad de imprimir las reposiciones al momento de realizar reposiciones manuales.
-		- [Deposito] - Se agrega la posibilidad de migrar conteo de inventario desde Excel.
-		- [Deposito] - Se mejoran modulos de confirmaciones de almacenaje y recogida para que pinten las filas de acuerdo a si estan pendientes, confirmadas
-			o si tienen salteos por la radio frecuencia.
-		- [Deposito] - En consulta de pedidos (informe de pedidos) se agrego el filtro para poder consultar los pedidos devueltos (por devolucion de bultos) y los 
-			pedidos cancelados.
-		- [Deposito] - Se modifican modulos de transferencias por unidades y por bultos para que al finalizar las transferencias impriman el reporte correspondiente.
+- [Deposito] - Se agrega modulo "Analisis de Consumo".
+- [Deposito] - Se agrega la posibilidad de imprimir las reposiciones al momento de realizar reposiciones manuales.
+- [Deposito] - Se agrega la posibilidad de migrar conteo de inventario desde Excel.
+- [Deposito] - Se mejoran módulos de confirmaciones de almacenaje y recogida para que pinten las filas de acuerdo a si están pendientes, confirmadas o si tienen salteos por la radio frecuencia.
+- [Deposito] - En consulta de pedidos (informe de pedidos) se agrego el filtro para poder consultar los pedidos devueltos (por devolucion de bultos) y los pedidos cancelados.
+- [Deposito] - Se modifican modulos de transferencias por unidades y por bultos para que al finalizar las transferencias impriman el reporte correspondiente.
 		
-	### Bugs
+### Bugs
 - [Maestro] - Se corrige control de fecha para que no cuelgue la aplicacion al querer tipear la fecha.
 - [Deposito] - Se modifica alta de pedidos para que autocomplete el centro emisor hasta 4 ceros. Antes al no autocompletar no validaba bien la existencia del pedido en la bolsa de pedidos pendientes dando un error de SQL (PK).
 - [Deposito] - Se corrigen reportes de reposicion para que si no tienen confirmaciones no impriman el codigo de barra de la confirmacion.
